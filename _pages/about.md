@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <center>NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World</center>
+title: <center>Workshop on Machine Learning and Biocatalysis</center>
 excerpt: "About"
 sitemap: false
 author_profile: true
@@ -8,70 +8,94 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### <center> In-Person Workshop, 16 December 2023 @NeurIPS</center> ####
-------
-<p style="text-align: justify;">
-This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing real-world experimental design and active learning problems. In addition, we aim to highlight new and emerging research opportunities for the machine learning community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for practical applications. Examples include protein design, causal discovery, drug design, and materials design, to name a few.
-</p>
+# Workshop on Machine Learning and Biocatalysis
 
+## **In-person Workshop, 18 March 2025 @ETH Zürich**
 
-Invited Speakers
-------
-* **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)**, Cambridge University.
-* **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
-* **[Anna Goldie](https://www.annagoldie.com/)**, Google DeepMind and Stanford University.
-* **[Joel Paulson](https://cbe.osu.edu/joel-paulson-laboratory-advanced-optimization-and-control)**, The Ohio State University.
-* **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
-* **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
-* **[Erika DeBenedictis](https://www.erikadebenedictis.com/)**, Francis Crick Institute.
+---
 
+## About
+The "WetLab meets DryLab" workshop focuses on integrating machine learning approaches with biocatalysis to advance the design of novel functional proteins. The event aims to address current challenges and establish collaborations among European scientists in this emerging interdisciplinary field.
 
-Accepted Papers
-------
-All papers that were accepted for presentation at the workshop can be found [on
-OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML).
+### Goals of the Workshop:
+- Foster collaboration among scientists in machine learning and biocatalysis.
+- Share experiences and challenges from past projects.
+- Discuss gaps in accuracy, throughput, directed information, and risk assessment.
+- Develop a white paper documenting short-term challenges and actionable goals.
 
+### Key Topics to Address:
+- High-throughput methods (e.g., microfluidics, oligo pools).
+- Measurement errors and assay reproducibility.
+- Generalist tools like AlphaFold and ProteinMPNN.
+- Specialized computational tools (e.g., molecular dynamics, docking).
+- Effective communication between wet-lab and dry-lab teams.
+- Defining search spaces for sequence and structure-based exploration.
 
-Information for Accepted Paper Authors
-------
-We are excited to see you at the workshop on December 16!
-* **Schedule:** Please see the full workshop schedule [on this page](https://realworldml.github.io/neurips2023/schedule/).
-* **Posters:** All accepted papers are invited to present their work as a poster! We have few requirements for posters, except that each should be under 4 feet per side.
-* **Poster setup** will take place on the morning of our workshop (8:00am-8:30am CT).
-* **Spotlight Talks:** We have reached out to a small set of papers to give spotlight talks on the day of the workshop.
-* **Camera Ready Papers:** Please submit your Camera Ready paper by December 9 on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML) (navigate to your paper, then click Edit > Camera Ready Revision). Formatting requirements are the same as the original submission.
+---
 
+## Program Schedule
+- **9:30 - 09:40** Opening (Rebecca Buller)
+- **9:40 - 10:20** Keynote 1 (Speaker TBA)
+- **10:20 - 11:00** Keynote 2 (Speaker TBA)
+- **11:00 - 11:20** Coffee Break
+- **11:20 - 11:40** Spotlight 1 (Speaker TBA)
+- **11:40 - 12:00** Spotlight 2 (Speaker TBA)
+- **12:00 - 13:40** Lunch & Poster Session
+- **13:40 - 14:20** Keynote 3 (Speaker TBA)
+- **14:20 - 15:00** Keynote 4 (Speaker TBA)
+- **15:00 - 15:20** Spotlight 3 (Speaker TBA)
+- **15:20 - 16:00** Coffee Break
+- **16:00 - 17:00** Panel Discussion (Panelists TBA)
+- **17:00 - 18:00** Closing Remarks & Poster Session
 
-Call for Submissions & Important Dates
-------
-Please see the [Call for papers](https://realworldml.github.io/neurips2023/cfp/) for submission instructions.
-* **Submission deadline:** 4 October 2023, 11:59 PM (AoE time)
-* **Notification of acceptance:** 26-27 October 2023, 11:59 PM (AoE time)
+---
 
-**Best Student Paper Award:** A *best student paper award*, worth **1000 USD**, will be awarded to the best paper selected by a reviewing committee.
+## Poster Session
+We invite poster contributions on topics including:
+- Enzyme design with computational tools.
+- Machine learning-designed proteins.
+- Protein representation with ML.
+- Molecular dynamics and docking for proteins.
+- Enzyme assay prediction.
+- High-throughput laboratory automation.
 
+**Poster Requirements:** A1 size.  
+**Submission Deadline:** [Submit here](https://mlbiocat2025.github.io/)
 
-Organizers
-------
-* **[Ava Amini](https://www.mit.edu/~asolei/)**, Microsoft Research.
-* **[Ilija Bogunovic](https://ilijabogunovic.com/)**, University College London.
-* **[Stefano Ermon](https://cs.stanford.edu/~ermon/)**, Stanford University.
-* **[Lalit Jain](http://lalitjain.com/)**, University of Washington.
-* **[Andreas Krause](https://las.inf.ethz.ch/krausea)**, ETH Zurich.
-* **[Mojmir Mutny](https://mojmirmutny.github.io/)**, ETH Zurich.
-* **[Willie Neiswanger](https://willieneis.github.io/)**, Stanford University.
-* **[Zi Wang](https://ziw.mit.edu/)**, Google DeepMind.
+---
 
-Please reach out to the organizers via email: realml-workshop-organizers@googlegroups.com
+## Panel Discussion
+A recorded, one-hour panel discussion will explore the future of ML in biocatalysis, collecting questions from participants ahead of the event. The discussion will result in a white paper summarizing current challenges and opportunities, to be published on bioRxiv.
 
+---
 
-Sponsors
-------
-Many thanks to our workshop sponsors!
-<p align="top">
-    <img src="files/sponsor-logos/google.png" width="24%">
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="files/sponsor-logos/meta.png" width="24%">
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="files/sponsor-logos/bosch.png" width="24%">
-</p>
+## Speakers and Panelists
+Confirmed and invited speakers include:
+- **Dry-lab Experts:** Basile Wicky, Mattia Golub, Stanislav Mazurenko, and others.
+- **Wet-lab Experts:** Ditte Hededam Welner, Silvia Osuna, and more.
+
+---
+
+## Location
+**ETH Zürich, Main Campus**  
+**Date:** 18 March 2025  
+**Time:** 9:30 AM - 5:00 PM  
+
+The workshop is co-located with the **Mosbacher Colloquium** (March 19–22, 2025). Participants are encouraged to explore ETH and Zurich or enjoy the skiing season.
+
+---
+
+## Organizers
+- Tobias Vornholt (University Basel)
+- Peter Stockinger (ZHAW)
+- Mojmir Mutny (ETH Zurich)
+- Thomas Ward (University Basel)
+- Rebecca Buller (ZHAW)
+- Andreas Krause (ETH Zurich)
+
+---
+
+## Sponsors
+Join our esteemed sponsors!  
+[Become a sponsor](https://mlbiocat2025.github.io/)
+
