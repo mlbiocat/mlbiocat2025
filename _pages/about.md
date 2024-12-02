@@ -58,7 +58,7 @@ We invite poster contributions on topics including:
 - High-throughput laboratory automation.
 
 **Poster Requirements:** A1 size.  
-**Submission Deadline:** [Submit here](https://mlbiocat2025.github.io/)
+**Submission Deadline:** [Submit here](https://mlbiocat.github.io/mlbiocat2025)
 
 ---
 
@@ -68,9 +68,8 @@ A recorded, one-hour panel discussion will explore the future of ML in biocataly
 ---
 
 ## Speakers and Panelists
-Confirmed and invited speakers include:
-- **Dry-lab Experts:** Basile Wicky, Mattia Golub, Stanislav Mazurenko, and others.
-- **Wet-lab Experts:** Ditte Hededam Welner, Silvia Osuna, and more.
+Confirmed and invited speakers include: TBC
+
 
 ---
 
