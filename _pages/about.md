@@ -8,8 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Workshop on Machine Learning and Biocatalysis
-
 ## **In-person Workshop, 18 March 2025 @ETH Zürich**
 
 ---
