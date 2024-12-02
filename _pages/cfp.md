@@ -8,39 +8,25 @@ sitemap: false
 
 Important Dates
 ----------------
-* **Submission system opens**: 5 August 2023 11:59 PM (AoE time)  [Submission page](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML){: .btn .btn--warning .btn--large .align-right}
-* **Submission deadline**: 4 October 2023 11:59 PM (AoE time)
-* **Reviewer deadline**: 25 October 2023 11:59 PM (AoE time)
-* **Author notification**: 26-27 October 2023 11:59 PM (AoE time)
-* **Lightning Talk deadline (spotlight talks)**: TBA
-* **Camera ready deadline**: 9 December 2023
-* **Workshop day**: 16 December 2023
+* **Submission system opens**: 2 Feburary 2024 11:59 PM (AoE time)  [Submission page](TBA){: .btn .btn--warning .btn--large .align-right}
+* **Submission deadline**: 3 March 2025 11:59 PM (AoE time)
 
-Please reach out to the organizers via email: realml-workshop-organizers@googlegroups.com
+Please reach out to the organizers via email: mojmir.mutny@inf.ethz.ch
 
 The Call
 ---------
 
 {: .text-justify}
-Whether in robotics, protein design, or physical sciences, one often faces decisions regarding which data to collect or which experiments to perform. There is thus a pressing need for algorithms and sampling strategies that make intelligent decisions about data collection processes that allow for data-efficient learning. Experimental design and active learning have been major research focuses within machine learning and statistics, aiming to answer both theoretical and algorithmic aspects of efficient data collection processes. The goal of this workshop is to identify missing links that hinder the direct application of these principled research ideas into practically relevant solutions. Progress in this area can provide immense benefits in using experimental design and active learning algorithms in emerging high-impact applications, such as materials design, computational biology, causal discovery, drug design, citizen science, etc.
+Enzyme design with machine learning represents a transformative approach in biotechnology, leveraging computational power to tackle the intricate challenge of creating or optimizing enzymes for specific functions. However, despite significant progress, many challenges remain unresolved, and the success rate of such endeavors remains relatively low. Issues such as the accurate modeling of enzyme dynamics, the scarcity of high-quality training data, and the complexity of protein function prediction hinder the reliability and scalability of machine learning approaches. Additionally, bridging the gap between in silico predictions and experimental validation often reveals limitations in current computational tools. As researchers strive to enhance model robustness, improve data integration, and develop better frameworks for collaboration between computational and experimental teams, the full potential of machine learning in enzyme design is yet to be realized. This highlights the need for continued innovation and interdisciplinary efforts to overcome these hurdles and unlock transformative applications in biotechnology.
 
 {: .text-justify}
-We welcome submissions of 4-6 pages (excluding references) in the following (modified) [JMLR Workshop and Proceedings format](https://realworldml.github.io/neurips2023/files/template.zip). An appendix of any length is allowed after references. Submissions should be non-anonymous. All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. Papers should be submitted via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML).
-
-Technical topics of interest include (but are not limited to):
-- Large-scale and real-world experimental design
-(e.g. drug design, physics, robotics, material design, protein design, causal discovery, citizen science).
-- Efficient active learning and exploration.
-- High-dimensional, scalable Bayesian and bandit optimization (e.g. contextual, multi-task).
-- Effective off-policy evaluation and treatment-effect estimation.
-- Effective exploration in high-dimensional spaces (e.g., through use of neural networks).
-- Sample-efficient interactive learning, hypothesis, and A/B testing.
-- Corrupted/indirect measurements, multi-fidelity, and multi-objective experimentation.
-- Domain-knowledge integration (e.g., from physics, chemistry, biology, medicine).
-- Safety and robustness during experimentation and of resulting designs.
-- Experiment design/active learning in reinforcement learning.
-
-
-Best Paper award
----------
-We will be awarding a *best student paper award*, worth **1000 USD**, to the best paper selected by a reviewing committee
+We welcome submissions of posters. Technical topics of interest include (but are not limited to):
+- Enzyme design with computational tools
+- ML designed proteins
+- Protein representation with ML
+- Molecular dynamics, docking for proteins
+- Enzyme assay prediction
+- Laboratory automation
+- High-througput experimentation 
+- De-Novo design
+- Practical perspectives on enzyme design 

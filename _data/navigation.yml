@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Main"
     url: /about/    
-  - title: "Call for papers"
+  - title: "Submit Poster"
     url: /cfp/
-  - title: "Schedule"
-    url: /schedule/
+  #- title: "Schedule"
+  #  url: /schedule/
   #- title: "Speakers"
     #url: /speakers/
   #- title: "Talks"
