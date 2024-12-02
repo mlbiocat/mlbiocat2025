@@ -79,7 +79,7 @@ Confirmed and invited speakers include:
 **Date:** 18 March 2025  
 **Time:** 9:30 AM - 5:00 PM  
 
-The workshop is co-located with the **Mosbacher Colloquium** (March 19–22, 2025). Participants are encouraged to explore ETH and Zurich or enjoy the skiing season.
+The workshop is co-located with the **Mosbacher Colloquium**(https://mosbacher-kolloquium.org/home.html) (March 19–22, 2025). Participants are encouraged to explore ETH and Zurich or enjoy the skiing season.
 
 ---
 
