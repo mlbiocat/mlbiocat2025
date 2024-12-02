@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RealML @ NeurIPS2023"
+title                    : "ML BioCatalysis Workshop 2025: DryLab meets WetLab"
 title_separator          : "-"
-name                     : &name "RealML"
-description              : &description "Real World ML"
-url                      : https://realworldml.github.io/neurips2023 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "ML BioCat"
+description              : &description "Workshop on Machine Learning for BioCatalysis"
+url                      : https://mlbiocat.github.io/mlbiocat2025/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "realworldml/neurips2023"
+repository               : "mlbiocat/mlbiocat2025"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "RealML @ NeurIPS2023"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Workshop on Real World Experiment Design and Active Learning"
+  bio              : ""
   #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
