@@ -60,7 +60,7 @@ Confirmed speakers:
 &nbsp;
 
 ## Panel Discussion
-A panel discussion will explore current challenges both from the experimental as well as the computational perspective. All workshop participants are invited to contribute to the discussion by submitting questions. Following the event, the discussion will be summarized in a white paper, which will be made available on bioRxiv.
+<p style="text-align: justify">A panel discussion will explore current challenges both from the experimental as well as the computational perspective. All workshop participants are invited to contribute to the discussion by submitting questions. Following the event, the discussion will be summarized in a white paper, which will be made available on bioRxiv.</p>
 
 &nbsp;
 
