@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## **In-person workshop, 18 March 2025 @ETH Zürich**
+#### <center> In-person workshop, 18 March 2025 @ETH Zürich</center> ####
 
 ---
 
