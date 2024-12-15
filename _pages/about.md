@@ -84,7 +84,8 @@ We invite poster contributions on topics including:
 **Date:** 18 March 2025  
 **Time:** 9:30 AM - 5:00 PM  
 
-The workshop precedes the [Mosbacher Kolloquium](https://mosbacher-kolloquium.org/home.html) (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology.
+The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" target="_blank">Mosbacher Kolloquium</a> (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology. 
+
 
 &nbsp;
 
