@@ -8,7 +8,7 @@ sitemap: false
 
 Important Dates
 ----------------
-* **Submission system opens**: 2 Feburary 2024 11:59 PM (AoE time)  [Submission page](TBA){: .btn .btn--warning .btn--large .align-right}
+* **Submission system opens**: 2 Feburary 2025 11:59 PM (AoE time)  [Submission page](TBA){: .btn .btn--warning .btn--large .align-right}
 * **Submission deadline**: 3 March 2025 11:59 PM (AoE time)
 
 Please reach out to the organizers via email: mojmir.mutny@inf.ethz.ch
@@ -28,5 +28,5 @@ We welcome submissions of posters. Technical topics of interest include (but are
 - Enzyme assay prediction
 - Laboratory automation
 - High-througput experimentation 
-- De-Novo design
+- De novo design
 - Practical perspectives on enzyme design 
