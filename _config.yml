@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ML BioCatalysis Workshop 2025: DryLab meets WetLab"
+title                    : "ML for Biocatalysis Workshop 2025"
 title_separator          : "-"
-name                     : &name "ML BioCat"
-description              : &description "Workshop on Machine Learning for BioCatalysis"
+name                     : &name "ML Biocat"
+description              : &description "Workshop on Machine Learning for Biocatalysis"
 url                      : https://mlbiocat.github.io/mlbiocat2025/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mlbiocat/mlbiocat2025"
