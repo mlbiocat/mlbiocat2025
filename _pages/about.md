@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 ## About
-Machine learning and data-driven approaches play an increasingly important role in enzyme design and engineering. These tools have the potential to drastically accelerate the development of bespoke biocatalysts, but numerous challenges remain. This workshop aims to bring together computer scientists and experimentalists to discuss recent advances as well as outstanding challenges in this emerging interdisciplinary field.
+<p style="text-align: justify">Machine learning and data-driven approaches play an increasingly important role in enzyme design and engineering. These tools have the potential to drastically accelerate the development of bespoke biocatalysts, but numerous challenges remain. This workshop aims to bring together computer scientists and experimentalists to discuss recent advances as well as outstanding challenges in this emerging interdisciplinary field.</p>
 
 ### Goals of the Workshop:
 - Foster collaboration among scientists in machine learning and biocatalysis.
