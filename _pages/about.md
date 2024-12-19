@@ -141,80 +141,80 @@ redirect_from:
 &nbsp;
 
 ## Sponsors
-<div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-top: 20px;">
-  <div class="row">
-    <div class="col-lg-6 col-12">
-      <form id="contact-form" class="custom-form" onsubmit="return false;">  <!-- Added onsubmit="return false" -->
-        <h3 style="margin-bottom: 20px; color: #1C5B62;">Contact Us</h3>
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-12">
-            <input type="text" name="from_name" id="name" class="form-control" placeholder="Your Name" required
-                   style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
-          </div>
-          <div class="col-lg-6 col-md-6 col-12">
-            <input type="email" name="from_email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" 
-                   placeholder="your@company.com" required
-                   style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
-          </div>
-          <div class="col-12">
-            <textarea name="message" id="message" rows="5" class="form-control"
-                      placeholder="Message" required
-                      style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;"></textarea>
-            <button type="submit" id="submit-button" class="form-control"
-                    style="background-color: #6FA64A; color: white; padding: 10px; border: none; border-radius: 5px;">
-              Submit
-            </button>
-          </div>
+<!-- First, modify your form to ensure it has the right attributes -->
+<form id="contact-form" class="custom-form contact-form" onsubmit="return false;">
+    <h2 class="mb-5" style="color: white;">Contact us</h2>
+
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-12">                                    
+            <input type="text" name="user_name" id="name" class="form-control" placeholder="Your Name" required>
         </div>
-      </form>
-      <div id="status-message" style="margin-top: 15px; padding: 10px; border-radius: 5px; display: none;"></div>
+
+        <div class="col-lg-6 col-md-6 col-12">         
+            <input type="email" name="user_email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="your@company.com" required>
+        </div>
+
+        <div class="col-12">
+            <textarea class="form-control" rows="7" id="message" name="message" placeholder="Message" required></textarea>
+
+            <button type="submit" class="form-control" id="submit-btn">Submit</button>
+        </div>
     </div>
-  </div>
-</div>
+</form>
 
-<script src="https://cdn.emailjs.com/sdk/2.6.4/email.min.js"></script>
-<script type="text/javascript">
-// Initialize EmailJS
-(function() {
-    try {
+<!-- Add this right before the closing </body> tag, after all other scripts -->
+<script>
+// Wait for DOM to be fully loaded
+document.addEventListener('DOMContentLoaded', function() {
+    // Load EmailJS
+    const script = document.createElement('script');
+    script.src = 'https://cdn.emailjs.com/sdk/2.6.4/email.min.js';
+    script.async = true;
+    script.onload = function() {
+        // Initialize EmailJS
         emailjs.init("f3Hb4qrbZBihQc6Z4");
-    } catch (err) {
-        console.log('EmailJS initialization error:', err);
-    }
-})();
+        
+        // Add form submit handler
+        const form = document.getElementById('contact-form');
+        if (form) {
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const btn = document.getElementById('submit-btn');
+                btn.disabled = true;
+                btn.textContent = 'Sending...';
 
-// Add submit event listener to form
-document.getElementById("contact-form").addEventListener("submit", function(event) {
-    event.preventDefault();  // Prevent form from submitting normally
-    
-    // Get the submit button
-    const submitButton = this.querySelector('button[type="submit"]');
-    
-    // Disable button and change text
-    submitButton.disabled = true;
-    submitButton.innerHTML = 'Sending...';
-    
-    // Prepare template parameters
-    const templateParams = {
-        from_name: this.querySelector('#name').value,
-        from_email: this.querySelector('#email').value,
-        message: this.querySelector('#message').value
+                const templateParams = {
+                    from_name: document.getElementById('name').value,
+                    from_email: document.getElementById('email').value,
+                    message: document.getElementById('message').value
+                };
+
+                emailjs.send('service_yky9v4o', 'template_yr47yeu', templateParams)
+                    .then(function(response) {
+                        alert('Thank you! Your message has been sent.');
+                        form.reset();
+                    })
+                    .catch(function(error) {
+                        console.error('EmailJS Error:', error);
+                        alert('Sorry, there was an error sending your message. Please try again.');
+                    })
+                    .finally(function() {
+                        btn.disabled = false;
+                        btn.textContent = 'Submit';
+                    });
+            });
+        }
     };
-
-    // Send the email
-    emailjs.send('service_yky9v4o', 'template_yr47yeu', templateParams)
-        .then(function(response) {
-            console.log('SUCCESS!', response.status, response.text);
-            alert('Message sent successfully!');
-            document.getElementById('contact-form').reset();
-        }, function(error) {
-            console.log('FAILED...', error);
-            alert('Failed to send message. Please try again.');
-        })
-        .finally(function() {
-            // Re-enable button and restore text
-            submitButton.disabled = false;
-            submitButton.innerHTML = 'Submit';
-        });
+    document.body.appendChild(script);
 });
+
+// Backup click handler
+document.getElementById('submit-btn').onclick = function(e) {
+    e.preventDefault();
+    const form = document.getElementById('contact-form');
+    if (form) {
+        form.dispatchEvent(new Event('submit'));
+    }
+};
 </script>
