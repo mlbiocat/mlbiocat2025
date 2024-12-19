@@ -7,7 +7,7 @@ sitemap: false
 ---
 
 <div style="background-color: white; padding: 20px; border-radius: 8px; display: flex; justify-content: center;">
-  <img src="images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
+  <img src="https://mlbiocat.github.io/mlbiocat2025/images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
 
 #### <center style="font-family: 'Arial Nova Light', Arial, sans-serif;"> Call for Papers - Submit by 3 March 2025 </center> ####
