@@ -129,7 +129,6 @@ redirect_from:
 &nbsp;
 
 ## Organizers
-<p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Organized by:</p>
 <ul style="list-style-type: none; padding-left: 0;">
   <li>Mojmir Mutny (ETH Zurich)</li>
   <li>Tobias Vornholt (University of Basel)</li>
