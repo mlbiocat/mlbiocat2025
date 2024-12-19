@@ -143,46 +143,63 @@ redirect_from:
 ## Sponsors
 <div style="background-color: #1C5B62; color: white; padding: 15px; border-radius: 8px;">
   <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Please reach out to us if you are interested in sponsoring the event!</p>
- <div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-top: 20px;">
-    <div class="row">
-      <div class="col-lg-6 col-12">
-        <form id="contact-form" class="custom-form">
-          <h3 style="margin-bottom: 20px; color: #1C5B62;">Contact Us</h3>
-          <div class="row">
-            <div class="col-lg-6 col-md-6 col-12">
-              <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required
-                     style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
-            </div>
-            <div class="col-lg-6 col-md-6 col-12">
-              <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" 
-                     placeholder="your@company.com" required
-                     style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
-            </div>
-            <div class="col-12">
-              <textarea name="message" id="message" rows="5" class="form-control"
-                        placeholder="Message"
-                        style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;"></textarea>
-              <button type="submit" class="form-control"
-                      style="background-color: #6FA64A; color: white; padding: 10px; border: none; border-radius: 5px;">Submit</button>
-            </div>
+<div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-top: 20px;">
+  <div class="row">
+    <div class="col-lg-6 col-12">
+      <form id="contact-form" class="custom-form">
+        <h3 style="margin-bottom: 20px; color: #1C5B62;">Contact Us</h3>
+        <div class="row">
+          <div class="col-lg-6 col-md-6 col-12">
+            <input type="text" name="from_name" id="name" class="form-control" placeholder="Your Name" required
+                   style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
           </div>
-        </form>
-      </div>  
+          <div class="col-lg-6 col-md-6 col-12">
+            <input type="email" name="from_email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" 
+                   placeholder="your@company.com" required
+                   style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
+          </div>
+          <div class="col-12">
+            <textarea name="message" id="message" rows="5" class="form-control"
+                      placeholder="Message"
+                      style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;"></textarea>
+            <button type="submit" class="form-control"
+                    style="background-color: #6FA64A; color: white; padding: 10px; border: none; border-radius: 5px;">Submit</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
 </div>
 
+<!-- EmailJS Integration -->
 <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
 <script type="text/javascript">
-  (function() {
-    emailjs.init("f3Hb4qrbZBihQc6Z4"); // Replace with your EmailJS User ID
-  })();
+(function() {
+  emailjs.init("f3Hb4qrbZBihQc6Z4");
+})();
 
-  document.getElementById("contact-form").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent default form submission
-    emailjs.sendForm("service_yky9v4o", "template_yr47yeu", this) // Replace with your Service ID and Template ID
-      .then(function(response) {
-        alert("Message sent successfully!");
-      }, function(error) {
-        alert("Failed to send message. Please try again.");
-      });
-  });
+document.getElementById("contact-form").addEventListener("submit", function(event) {
+  event.preventDefault();
+  
+  // Show loading state
+  const submitButton = this.querySelector('button[type="submit"]');
+  const originalButtonText = submitButton.innerHTML;
+  submitButton.innerHTML = 'Sending...';
+  submitButton.disabled = true;
+  
+  emailjs.sendForm("service_yky9v4o", "template_yr47yeu", this)
+    .then(function(response) {
+      alert("Message sent successfully!");
+      document.getElementById("contact-form").reset();
+    })
+    .catch(function(error) {
+      alert("Failed to send message. Please try again.");
+      console.error("EmailJS Error:", error);
+    })
+    .finally(function() {
+      // Reset button state
+      submitButton.innerHTML = originalButtonText;
+      submitButton.disabled = false;
+    });
+});
 </script>
