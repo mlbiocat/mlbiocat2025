@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-![Workshop Logo](images/logo.png)
+<img src="images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 
-#### <center> In-person workshop, 18 March 2025 @ETH Zürich</center> ####
+#### <center style="color: #1C5B62;"> In-person workshop, 18 March 2025 @ETH Zürich</center> ####
 
 ---
 
 ## About
-<p style="text-align: justify">Machine learning and data-driven approaches play an increasingly important role in enzyme design and engineering. These tools have the potential to drastically accelerate the development of bespoke biocatalysts, but numerous challenges remain. This workshop aims to bring together computer scientists and experimentalists to discuss recent advances as well as outstanding challenges in this emerging interdisciplinary field.</p>
+<p style="text-align: justify; color: #1C5B62;">Machine learning and data-driven approaches play an increasingly important role in enzyme design and engineering. These tools have the potential to drastically accelerate the development of bespoke biocatalysts, but numerous challenges remain. This workshop aims to bring together computer scientists and experimentalists to discuss recent advances as well as outstanding challenges in this emerging interdisciplinary field.</p>
 
 ### Goals of the Workshop:
-- Foster collaboration among scientists in machine learning and biocatalysis.
+- <span style="color: #6FA64A;">Foster collaboration among scientists in machine learning and biocatalysis.</span>
 - Share experiences and challenges from past projects.
 - Discuss gaps in accuracy, throughput, directed information, and risk assessment.
 - Develop a white paper documenting short-term challenges and actionable goals.
@@ -34,7 +34,7 @@ redirect_from:
 &nbsp;
 
 ## Preliminary Program
-- **9:30 - 09:40** Opening (Rebecca Buller)
+- **9:30 - 09:40** <span style="color: #6FA64A;">Opening (Rebecca Buller)</span>
 - **9:40 - 10:20** Keynote 1
 - **10:20 - 11:00** Keynote 2
 - **11:00 - 11:20** Coffee Break
@@ -51,7 +51,7 @@ redirect_from:
 &nbsp;
 
 ## Speakers and Panelists
-Confirmed speakers:
+<p style="color: #1C5B62;">Confirmed speakers:</p>
 - Silvia Osuna (University of Girona)
 - Gustav Oberdorfer (TU Graz)
 - Markus Jeschek (University of Regensburg)
@@ -62,12 +62,12 @@ Confirmed speakers:
 &nbsp;
 
 ## Panel Discussion
-<p style="text-align: justify">A panel discussion will explore current challenges both from the experimental as well as the computational perspective. All workshop participants are invited to contribute to the discussion by submitting questions. Following the event, the discussion will be summarized in a white paper, which will be made available on bioRxiv.</p>
+<p style="text-align: justify; color: #1C5B62;">A panel discussion will explore current challenges both from the experimental as well as the computational perspective. All workshop participants are invited to contribute to the discussion by submitting questions. Following the event, the discussion will be summarized in a white paper, which will be made available on bioRxiv.</p>
 
 &nbsp;
 
 ## Poster Session
-We invite poster contributions on topics including:
+<p style="color: #1C5B62;">We invite poster contributions on topics including:</p>
 - *De novo* enzyme design
 - Machine learning-assisted directed evolution
 - Protein representation with ML
@@ -82,15 +82,16 @@ We invite poster contributions on topics including:
 &nbsp;
 
 ## Location
-**ETH Zürich, Main Campus**  
+<p style="color: #6FA64A;"><strong>ETH Zürich, Main Campus</strong></p>
 **Date:** 18 March 2025  
 **Time:** 9:30 AM - 5:00 PM  
 
-The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" target="_blank">Mosbacher Kolloquium</a> (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology.  
+The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" target="_blank" style="color: #1C5B62;">Mosbacher Kolloquium</a> (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology.  
 
 &nbsp;
 
 ## Organizers
+<p style="color: #1C5B62;">Organized by:</p>
 - Mojmir Mutny (ETH Zurich)
 - Tobias Vornholt (University of Basel)
 - Peter Stockinger (ZHAW)
@@ -101,4 +102,4 @@ The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" t
 &nbsp;
 
 ## Sponsors
-Please reach out to us if you are interested in sponsoring the event!
+<p style="color: #1C5B62;">Please reach out to us if you are interested in sponsoring the event!</p>
