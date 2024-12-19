@@ -144,8 +144,8 @@ redirect_from:
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-top: 20px;">
   <div class="row">
     <div class="col-lg-6 col-12">
-      <form id="contact-form" class="custom-form">
-        <h3 style="margin-bottom: 20px; color: #1C5B62;">Please reach out to us if you are interested in sponsoring the event!</h3>
+      <form id="contact-form" class="custom-form" onsubmit="return false;">  <!-- Added onsubmit="return false" -->
+        <h3 style="margin-bottom: 20px; color: #1C5B62;">Contact Us</h3>
         <div class="row">
           <div class="col-lg-6 col-md-6 col-12">
             <input type="text" name="from_name" id="name" class="form-control" placeholder="Your Name" required
@@ -160,84 +160,71 @@ redirect_from:
             <textarea name="message" id="message" rows="5" class="form-control"
                       placeholder="Message" required
                       style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;"></textarea>
-            <button type="submit" class="form-control"
+            <button type="submit" id="submit-button" class="form-control"
                     style="background-color: #6FA64A; color: white; padding: 10px; border: none; border-radius: 5px;">
               Submit
             </button>
           </div>
         </div>
       </form>
-      <!-- Add a status message div -->
       <div id="status-message" style="margin-top: 15px; padding: 10px; border-radius: 5px; display: none;"></div>
     </div>
   </div>
 </div>
 
 <!-- EmailJS Integration -->
-<script src="https://cdn.emailjs.com/sdk/2.6.4/email.min.js"></script>
+<script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.6.4/email.min.js"></script>
 <script type="text/javascript">
-(function() {
-  // Initialize EmailJS with your user ID
-  emailjs.init("f3Hb4qrbZBihQc6Z4");
-})();
+// Initialize EmailJS
+emailjs.init("f3Hb4qrbZBihQc6Z4");
 
-document.getElementById("contact-form").addEventListener("submit", function(event) {
-  event.preventDefault();
-  
-  // Get elements
-  const form = this;
-  const submitButton = form.querySelector('button[type="submit"]');
-  const statusDiv = document.getElementById('status-message');
-  
-  // Show loading state
-  submitButton.innerHTML = 'Sending...';
-  submitButton.disabled = true;
-  
-  // Validate form
-  const name = form.querySelector('[name="from_name"]').value.trim();
-  const email = form.querySelector('[name="from_email"]').value.trim();
-  const message = form.querySelector('[name="message"]').value.trim();
-  
-  if (!name || !email || !message) {
-    showStatus('Please fill in all fields.', 'error');
-    submitButton.innerHTML = 'Submit';
-    submitButton.disabled = false;
-    return;
-  }
-  
-  // Send email using EmailJS
-  emailjs.sendForm('service_yky9v4o', 'template_yr47yeu', form)
-    .then(function(response) {
-      showStatus('Message sent successfully! We will get back to you soon.', 'success');
-      form.reset();
-    })
-    .catch(function(error) {
-      showStatus('Failed to send message. Please try again or contact us directly.', 'error');
-      console.error('EmailJS Error:', error);
-    })
-    .finally(function() {
-      submitButton.innerHTML = 'Submit';
-      submitButton.disabled = false;
-    });
+// Add event listener
+document.getElementById('submit-button').addEventListener('click', function(e) {
+    e.preventDefault();
+    
+    // Get form and button elements
+    const form = document.getElementById('contact-form');
+    const submitButton = this;
+    const statusDiv = document.getElementById('status-message');
+    
+    // Get form data
+    const formData = {
+        from_name: document.getElementById('name').value,
+        from_email: document.getElementById('email').value,
+        message: document.getElementById('message').value
+    };
+    
+    // Show loading state
+    submitButton.textContent = 'Sending...';
+    submitButton.disabled = true;
+    
+    // Send email using EmailJS
+    emailjs.send("service_yky9v4o", "template_yr47yeu", formData)
+        .then(function() {
+            // Success
+            statusDiv.style.display = 'block';
+            statusDiv.style.backgroundColor = '#6FA64A';
+            statusDiv.style.color = 'white';
+            statusDiv.textContent = 'Message sent successfully!';
+            form.reset();
+        })
+        .catch(function(error) {
+            // Error
+            console.error('EmailJS Error:', error);
+            statusDiv.style.display = 'block';
+            statusDiv.style.backgroundColor = '#ff6b6b';
+            statusDiv.style.color = 'white';
+            statusDiv.textContent = 'Failed to send message. Please try again.';
+        })
+        .finally(function() {
+            // Reset button
+            submitButton.textContent = 'Submit';
+            submitButton.disabled = false;
+            
+            // Hide status message after 5 seconds
+            setTimeout(() => {
+                statusDiv.style.display = 'none';
+            }, 5000);
+        });
 });
-
-// Function to show status messages
-function showStatus(message, type) {
-  const statusDiv = document.getElementById('status-message');
-  statusDiv.style.display = 'block';
-  statusDiv.textContent = message;
-  
-  if (type === 'success') {
-    statusDiv.style.backgroundColor = '#6FA64A';
-    statusDiv.style.color = 'white';
-  } else {
-    statusDiv.style.backgroundColor = '#ff6b6b';
-    statusDiv.style.color = 'white';
-  }
-  
-  // Hide the message after 5 seconds
-  setTimeout(() => {
-    statusDiv.style.display = 'none';
-  }, 5000);
-}
 </script>
