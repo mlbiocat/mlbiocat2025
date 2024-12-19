@@ -141,5 +141,10 @@ redirect_from:
 &nbsp;
 
 ## Sponsors
-<div style="background-color: #1C5B62; color: white; padding: 15px; border-radius: 8px;">
-  <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Please <a href="contact_form.html" target="_blank" style="color: white; text-decoration: underline;">reach out</a> to us if you are interested in sponsoring the event!</p>
+<p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Please 
+    <a href="https://github.com/mlbiocat/mlbiocat2025/edit/main/_pages/contact_form.html" target="_blank" style="color: #6FA64A; text-decoration: underline;">
+        reach out
+    </a> 
+    to us if you are interested in sponsoring the event!
+</p>
+
