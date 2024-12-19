@@ -143,4 +143,29 @@ redirect_from:
 ## Sponsors
 <div style="background-color: #1C5B62; color: white; padding: 15px; border-radius: 8px;">
   <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Please reach out to us if you are interested in sponsoring the event!</p>
+ <div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-top: 20px;">
+    <div class="row">
+      <div class="col-lg-6 col-12">
+        <form id="contact-form" class="custom-form">
+          <h3 style="margin-bottom: 20px; color: #1C5B62;">Contact Us</h3>
+          <div class="row">
+            <div class="col-lg-6 col-md-6 col-12">
+              <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required
+                     style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+              <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" 
+                     placeholder="your@company.com" required
+                     style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;">
+            </div>
+            <div class="col-12">
+              <textarea name="message" id="message" rows="5" class="form-control"
+                        placeholder="Message"
+                        style="padding: 10px; margin-bottom: 15px; border: 1px solid #6FA64A; border-radius: 5px;"></textarea>
+              <button type="submit" class="form-control"
+                      style="background-color: #6FA64A; color: white; padding: 10px; border: none; border-radius: 5px;">Submit</button>
+            </div>
+          </div>
+        </form>
+      </div>  
 </div>
