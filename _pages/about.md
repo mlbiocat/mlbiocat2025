@@ -7,13 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>  
+
 <div style="background-color: white; padding: 20px; border-radius: 8px;">
   <img src="images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
@@ -147,82 +141,6 @@ redirect_from:
 &nbsp;
 
 ## Sponsors
-<!-- First, modify your form to ensure it has the right attributes -->
-<form id="contact-form" class="custom-form contact-form" onsubmit="return false;">
-    <h2 class="mb-5" style="color: white;">Contact us</h2>
-
-    <div class="row">
-        <div class="col-lg-6 col-md-6 col-12">                                    
-            <input type="text" name="user_name" id="name" class="form-control" placeholder="Your Name" required>
-        </div>
-
-        <div class="col-lg-6 col-md-6 col-12">         
-            <input type="email" name="user_email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="your@company.com" required>
-        </div>
-
-        <div class="col-12">
-            <textarea class="form-control" rows="7" id="message" name="message" placeholder="Message" required></textarea>
-
-            <button type="submit" class="form-control" id="submit-btn">Submit</button>
-        </div>
-    </div>
-</form>
-
-<!-- Add this right before the closing </body> tag, after all other scripts -->
-<script>
-// Wait for DOM to be fully loaded
-document.addEventListener('DOMContentLoaded', function() {
-    // Load EmailJS
-    const script = document.createElement('script');
-    script.src = 'https://cdn.emailjs.com/sdk/2.6.4/email.min.js';
-    script.async = true;
-    script.onload = function() {
-        // Initialize EmailJS
-        emailjs.init("f3Hb4qrbZBihQc6Z4");
-        
-        // Add form submit handler
-        const form = document.getElementById('contact-form');
-        if (form) {
-            form.addEventListener('submit', function(e) {
-                e.preventDefault();
-                
-                const btn = document.getElementById('submit-btn');
-                btn.disabled = true;
-                btn.textContent = 'Sending...';
-
-                const templateParams = {
-                    from_name: document.getElementById('name').value,
-                    from_email: document.getElementById('email').value,
-                    message: document.getElementById('message').value
-                };
-
-                emailjs.send('service_yky9v4o', 'template_yr47yeu', templateParams)
-                    .then(function(response) {
-                        alert('Thank you! Your message has been sent.');
-                        form.reset();
-                    })
-                    .catch(function(error) {
-                        console.error('EmailJS Error:', error);
-                        alert('Sorry, there was an error sending your message. Please try again.');
-                    })
-                    .finally(function() {
-                        btn.disabled = false;
-                        btn.textContent = 'Submit';
-                    });
-            });
-        }
-    };
-    document.body.appendChild(script);
-});
-
-// Backup click handler
-document.getElementById('submit-btn').onclick = function(e) {
-    e.preventDefault();
-    const form = document.getElementById('contact-form');
-    if (form) {
-        form.dispatchEvent(new Event('submit'));
-    }
-};
-</script>
-</body>
-</html>
+<div style="background-color: #1C5B62; color: white; padding: 15px; border-radius: 8px;">
+  <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Please reach out to us if you are interested in sponsoring the event!</p>
+</div>
