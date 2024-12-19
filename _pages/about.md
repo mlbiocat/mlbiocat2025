@@ -169,3 +169,20 @@ redirect_from:
         </form>
       </div>  
 </div>
+
+<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+<script type="text/javascript">
+  (function() {
+    emailjs.init("f3Hb4qrbZBihQc6Z4"); // Replace with your EmailJS User ID
+  })();
+
+  document.getElementById("contact-form").addEventListener("submit", function(event) {
+    event.preventDefault(); // Prevent default form submission
+    emailjs.sendForm("service_yky9v4o", "template_yr47yeu", this) // Replace with your Service ID and Template ID
+      .then(function(response) {
+        alert("Message sent successfully!");
+      }, function(error) {
+        alert("Failed to send message. Please try again.");
+      });
+  });
+</script>
