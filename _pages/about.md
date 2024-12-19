@@ -142,39 +142,4 @@ redirect_from:
 
 ## Sponsors
 <div style="background-color: #1C5B62; color: white; padding: 15px; border-radius: 8px;">
-  <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Please reach out to us if you are interested in sponsoring the event!</p>
-
-<form id="contact-form">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" required><br><br>
-  
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email" required><br><br>
-  
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" required></textarea><br><br>
-  
-  <button type="submit">Send Message</button>
-</form>
-
-<!-- JavaScript Files -->
-<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
-
-<script type="text/javascript">
-  (function() {
-    emailjs.init("f3Hb4qrbZBihQc6Z4");  // Replace with your EmailJS User ID
-  })();
-  
-  // Handle form submission
-  document.getElementById("contact-form").addEventListener("submit", function(event) {
-    event.preventDefault();  // Prevent default form submission (no page redirect)
-
-    // Send form data using EmailJS
-    emailjs.sendForm("service_yky9v4o", "template_yr47yeu", this)  // Replace with your Service ID and Template ID
-      .then(function(response) {
-        alert("Message sent successfully!");  // Success message
-      }, function(error) {
-        alert("Failed to send message. Please try again.");  // Error message
-      });
-  });
-</script>
+  <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Please <a href="contact_form.html" target="_blank" style="color: white; text-decoration: underline;">reach out</a> to us if you are interested in sponsoring the event!</p>
