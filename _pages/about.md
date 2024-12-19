@@ -112,16 +112,17 @@ redirect_from:
   </div>
   
   <!-- Right Column (Map) -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center; position: relative;">
     <iframe 
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107465.2871738979!2d8.420312774503204!3d47.405257509342526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa10077f7ad79%3A0xa00b68137ff59d55!2sETH%20HG!5e0!3m2!1sde!2sch!4v1734633219843!5m2!1sde!2sch" 
-      style="border:0; width: 80%; height: 90%;" 
+      style="border:0; height: 90%; width: 90%; aspect-ratio: 1;" 
       allowfullscreen="" 
       loading="lazy" 
       referrerpolicy="no-referrer-when-downgrade">
     </iframe>
   </div>
 </div>
+
 
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" target="_blank" style="color: #1C5B62;">Mosbacher Kolloquium</a> (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology.</p>
 
