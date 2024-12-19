@@ -166,14 +166,25 @@ redirect_from:
   document.getElementById("contact-form").addEventListener("submit", function(event) {
     event.preventDefault();  // Prevent default form submission
 
+    // Collect form data
+    var formData = new FormData(this);
+    var name = formData.get("name");
+    var email = formData.get("email");
+    var message = formData.get("message");
+
+    // Optionally, redirect or show the form data in the URL (not required for EmailJS)
+    var newUrl = "https://mlbiocat.github.io/mlbiocat2025/?name=" + encodeURIComponent(name) +
+                 "&email=" + encodeURIComponent(email) +
+                 "&message=" + encodeURIComponent(message);
+    // You can comment out or remove the following line if you don't need this redirect
+    window.location.href = newUrl;  // Uncomment this line to redirect if desired
+
     // Send form data using EmailJS
     emailjs.sendForm("service_yky9v4o", "template_yr47yeu", this)  // Replace with your Service ID and Template ID
       .then(function(response) {
-        alert("Message sent successfully!");
+        alert("Message sent successfully!");  // Success alert
       }, function(error) {
-        alert("Failed to send message. Please try again.");
+        alert("Failed to send message. Please try again.");  // Failure alert
       });
   });
 </script>
-
-</div>
