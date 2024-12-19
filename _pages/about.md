@@ -103,26 +103,25 @@ redirect_from:
 &nbsp;
 
 ## Location
-<div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between;">
+<div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between; height: 400px;"> 
   <!-- Left Column (Text) -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; display: flex; flex-direction: column; justify-content: center;">
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zürich, Main Campus</strong></p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Date:</strong> 18 March 2025</p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Time:</strong> 9:30 AM - 5:00 PM</p>
   </div>
   
   <!-- Right Column (Map) -->
-  <div style="flex: 1; display: flex; justify-content: center;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <iframe 
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107465.2871738979!2d8.420312774503204!3d47.405257509342526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa10077f7ad79%3A0xa00b68137ff59d55!2sETH%20HG!5e0!3m2!1sde!2sch!4v1734633219843!5m2!1sde!2sch" 
-      style="border:0; width: 80%; height: 300px;" 
+      style="border:0; width: 80%; height: 90%;" 
       allowfullscreen="" 
       loading="lazy" 
       referrerpolicy="no-referrer-when-downgrade">
     </iframe>
   </div>
 </div>
-
 
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" target="_blank" style="color: #1C5B62;">Mosbacher Kolloquium</a> (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology.</p>
 
