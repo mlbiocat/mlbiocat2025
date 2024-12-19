@@ -172,59 +172,49 @@ redirect_from:
   </div>
 </div>
 
-<!-- EmailJS Integration -->
-<script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.6.4/email.min.js"></script>
+<script src="https://cdn.emailjs.com/sdk/2.6.4/email.min.js"></script>
 <script type="text/javascript">
 // Initialize EmailJS
-emailjs.init("f3Hb4qrbZBihQc6Z4");
+(function() {
+    try {
+        emailjs.init("f3Hb4qrbZBihQc6Z4");
+    } catch (err) {
+        console.log('EmailJS initialization error:', err);
+    }
+})();
 
-// Add event listener
-document.getElementById('submit-button').addEventListener('click', function(e) {
-    e.preventDefault();
+// Add submit event listener to form
+document.getElementById("contact-form").addEventListener("submit", function(event) {
+    event.preventDefault();  // Prevent form from submitting normally
     
-    // Get form and button elements
-    const form = document.getElementById('contact-form');
-    const submitButton = this;
-    const statusDiv = document.getElementById('status-message');
+    // Get the submit button
+    const submitButton = this.querySelector('button[type="submit"]');
     
-    // Get form data
-    const formData = {
-        from_name: document.getElementById('name').value,
-        from_email: document.getElementById('email').value,
-        message: document.getElementById('message').value
-    };
-    
-    // Show loading state
-    submitButton.textContent = 'Sending...';
+    // Disable button and change text
     submitButton.disabled = true;
+    submitButton.innerHTML = 'Sending...';
     
-    // Send email using EmailJS
-    emailjs.send("service_yky9v4o", "template_yr47yeu", formData)
-        .then(function() {
-            // Success
-            statusDiv.style.display = 'block';
-            statusDiv.style.backgroundColor = '#6FA64A';
-            statusDiv.style.color = 'white';
-            statusDiv.textContent = 'Message sent successfully!';
-            form.reset();
-        })
-        .catch(function(error) {
-            // Error
-            console.error('EmailJS Error:', error);
-            statusDiv.style.display = 'block';
-            statusDiv.style.backgroundColor = '#ff6b6b';
-            statusDiv.style.color = 'white';
-            statusDiv.textContent = 'Failed to send message. Please try again.';
+    // Prepare template parameters
+    const templateParams = {
+        from_name: this.querySelector('#name').value,
+        from_email: this.querySelector('#email').value,
+        message: this.querySelector('#message').value
+    };
+
+    // Send the email
+    emailjs.send('service_yky9v4o', 'template_yr47yeu', templateParams)
+        .then(function(response) {
+            console.log('SUCCESS!', response.status, response.text);
+            alert('Message sent successfully!');
+            document.getElementById('contact-form').reset();
+        }, function(error) {
+            console.log('FAILED...', error);
+            alert('Failed to send message. Please try again.');
         })
         .finally(function() {
-            // Reset button
-            submitButton.textContent = 'Submit';
+            // Re-enable button and restore text
             submitButton.disabled = false;
-            
-            // Hide status message after 5 seconds
-            setTimeout(() => {
-                statusDiv.style.display = 'none';
-            }, 5000);
+            submitButton.innerHTML = 'Submit';
         });
 });
 </script>
