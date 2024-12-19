@@ -7,7 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>  
 <div style="background-color: white; padding: 20px; border-radius: 8px;">
   <img src="images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
@@ -218,3 +224,5 @@ document.getElementById('submit-btn').onclick = function(e) {
     }
 };
 </script>
+</body>
+</html>
