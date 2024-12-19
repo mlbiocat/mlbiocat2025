@@ -1,6 +1,4 @@
 ---
-layout: archive
-title: "Call for Papers"
 permalink: /cfp/
 author_profile: true
 sitemap: false
@@ -10,7 +8,7 @@ sitemap: false
   <img src="https://mlbiocat.github.io/mlbiocat2025/images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
 
-#### <center style="font-family: 'Arial Nova Light', Arial, sans-serif;"> Call for Papers - Submit by 3 March 2025 </center> ####
+#### <center style="font-family: 'Arial Nova Light', Arial, sans-serif;"> Call for Posters - Submit by 3 March 2025 </center> ####
 
 <div style="border-bottom: 4px solid #6FA64A; margin-top: 20px; width: 100%;"></div>
 
