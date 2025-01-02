@@ -129,7 +129,14 @@ redirect_from:
 &nbsp;
 
 ## Organizers
-<ul style="list-style-type: none; padding-left: 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; align-items: center; justify-items: center; margin-top: 20px;">
+    <img src="eth.png" alt="ETH Zurich" style="max-width: 100%; height: auto;" />
+    <img src="basel.png" alt="University of Basel" style="max-width: 100%; height: auto;" />
+    <img src="zhaw.png" alt="ZHAW" style="max-width: 100%; height: auto;" />
+    <img src="ccbio.png" alt="CCBio" style="max-width: 100%; height: auto;" />
+</div>
+
+<ul style="list-style-type: none; padding-left: 0; margin-top: 20px;">
   <li>Mojmir Mutny (ETH Zurich)</li>
   <li>Tobias Vornholt (University of Basel)</li>
   <li>Peter Stockinger (ZHAW)</li>
