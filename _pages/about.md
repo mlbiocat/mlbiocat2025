@@ -130,10 +130,10 @@ redirect_from:
 
 ## Organizers
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; align-items: center; justify-items: center; margin-top: 20px;">
-    <img src="eth.png" alt="ETH Zurich" style="max-width: 100%; height: 100px;" />
-    <img src="basel.png" alt="University of Basel" style="max-width: 100%; height: 100px;" />
-    <img src="zhaw.png" alt="ZHAW" style="max-width: 100%; height: 100px;" />
-    <img src="ccbio.png" alt="CCBio" style="max-width: 100%; height: 100px;" />
+    <img src="imgages/eth.png" alt="ETH Zurich" style="max-width: 100%; height: 100px;" />
+    <img src="images/basel.png" alt="University of Basel" style="max-width: 100%; height: 100px;" />
+    <img src="images/zhaw.png" alt="ZHAW" style="max-width: 100%; height: 100px;" />
+    <img src="images/ccbio.png" alt="CCBio" style="max-width: 100%; height: 100px;" />
 </div>
 
 <ul style="list-style-type: none; padding-left: 0; margin-top: 20px;">
