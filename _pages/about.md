@@ -44,8 +44,8 @@ redirect_from:
 ## Preliminary Program
 <div style="border: 2px solid #1C5B62; border-radius: 8px; padding: 15px;">
   <ul style="font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li><strong>9:30 - 09:40</strong> Opening (Rebecca Buller)</li>
-    <li><strong>9:40 - 10:20</strong> Keynote 1</li>
+    <li><strong>09:30 - 09:40</strong> Opening (Rebecca Buller)</li>
+    <li><strong>09:40 - 10:20</strong> Keynote 1</li>
     <li><strong>10:20 - 11:00</strong> Keynote 2</li>
     <li><strong>11:00 - 11:20</strong> Coffee Break</li>
     <li><strong>11:20 - 11:40</strong> Spotlight 1</li>
@@ -66,6 +66,7 @@ redirect_from:
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Confirmed speakers:</p>
 <div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px;">
   <ul>
+    <li>Ditte Hededam Welner (DTU Biosustain)</li>
     <li>Silvia Osuna (University of Girona)</li>
     <li>Gustav Oberdorfer (TU Graz)</li>
     <li>Markus Jeschek (University of Regensburg)</li>
