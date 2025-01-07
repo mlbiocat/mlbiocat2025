@@ -101,8 +101,8 @@ redirect_from:
 
 <div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
   <strong>Poster Requirements:</strong> A1 size.  
-  <strong>Register your poster [here.](
-  https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog) </strong>
+  Register your poster [here.](
+  https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog) 
 </div>
 
 &nbsp;
