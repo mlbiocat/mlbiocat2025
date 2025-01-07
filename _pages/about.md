@@ -61,6 +61,9 @@ redirect_from:
 </div>
 
 &nbsp;
+## Registration
+  <strong>Register attendance and poster [here.](
+  https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog) </strong>
 
 ## Speakers and Panelists
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Confirmed speakers:</p>
@@ -98,7 +101,8 @@ redirect_from:
 
 <div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
   <strong>Poster Requirements:</strong> A1 size.  
-  <strong>Poster submission will open soon.</strong>
+  <strong>Register your poster [here.](
+  https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog) </strong>
 </div>
 
 &nbsp;
