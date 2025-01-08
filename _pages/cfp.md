@@ -15,7 +15,8 @@ sitemap: false
 ## Important Dates
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #6FA64A; width: 80%; margin: 0 auto;">
   <ul style="font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li><strong>Submission system opens:</strong> 2 February 2025 11:59 PM (CET)</li>
+    <li><strong>Submission system open  <a href=" https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank">here.</a></strong>
+ </li>
     <li><strong>Submission deadline:</strong> 3 March 2025 11:59 PM (CET)</li>
   </ul>
 </div>
