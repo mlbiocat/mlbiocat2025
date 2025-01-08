@@ -155,6 +155,9 @@ redirect_from:
 &nbsp;
 
 ## Sponsors
+    <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+        <img src="images/nccr_mse_snsf.png" style="max-width: 100%; object-fit: contain;" />
+    </div>
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">
     Please 
     <a href="https://mlbiocat.github.io/mlbiocat2025/_pages/contact_form.html" 
