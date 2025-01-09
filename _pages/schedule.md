@@ -16,19 +16,18 @@ author_profile: true
   </thead>
   <tbody>
     <tr>
-      <td><strong>09:00 AM - 09:30 AM</strong></td>
+      <td><strong>09:00 - 09:30</strong></td>
       <td><strong>Registration</strong></td>
     </tr>
     <tr>
-      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td><strong>09:30 - 09:40</strong></td>
       <td><strong>Rebecca Buller</strong> (opening)</td>
     </tr>
     <tr>
-      <td><strong>09:30 AM - 09:20 AM</strong></td>
+      <td><strong>09:30 - 09:20</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Gustav Oberdorfer</strong> (TU Graz):
-          Computational design of highly active de novo enzymes 
+          <strong>Gustav Oberdorfer</strong> (TU Graz): Computational design of highly active de novo enzymes 
         </div>
         <div class="abstract" style="display: none;">
           Abstract: Reliably introducing function into genetically encodable de novo proteins is still a challenging task. Current design methods mostly produce de novo enzymes with low activities. As a result, they require costly experimental optimization and high-throughput screening to be industrially viable. We developed rotamer inverted fragment finder–diffusion (Riff-Diff), a hybrid machine learning and atomistic modelling strategy for scaffolding catalytic arrays in de novo protein backbones. We show that proficient enzymes can be generated with Riff-Diff while screening as little as 35 designs. The talk will highlight challenges and findings during scaffolding active sites for catalyzing the retro-aldol and Morita Baylis-Hillman reaction, as well as metal cofactors of increasing complexity.
@@ -36,7 +35,7 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Sílvia Osuna</strong> (University of Girona): Beyond AlphaFold: How to computationally generate efficient enzymes?
@@ -47,11 +46,11 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td><strong>09:30 - 09:40</strong></td>
       <td><strong>Coffee break</strong></td>
     </tr>
     <tr>
-      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Mattia Gollub</strong> (Jura Bio)
@@ -62,7 +61,7 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Christian Gruber</strong> (Innophore)
@@ -73,7 +72,7 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Adrian Bunzel</strong> (ETH Zurich)
@@ -84,11 +83,11 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:30 AM - 09:40 AM</strong></td>
-      <td><strong>Lunch & Poster Session</strong></td>
+      <td><strong>09:30 - 09:40</strong></td>
+      <td><strong>Lunch & poster session</strong></td>
     </tr>
     <tr>
-      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Markus Jeschek</strong> (University of Regensburg)
@@ -99,7 +98,7 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Jürgen Pleiss</strong> (University of Stuttgart): Making enzymatic data AI-ready
@@ -110,7 +109,7 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Ditte Hededam Welner</strong> (DTU Biosustain): How we try to use machine learning on limited-size enzymology datasets for prediction and engineering of glycosyltransferases
@@ -122,15 +121,15 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
       </td>
     </tr>
     <tr>
-      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td><strong>15:30 - 16:00</strong></td>
       <td><strong>Coffee break</strong></td>
     </tr>
     <tr>
-      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td><strong>16:00 - 17:00</strong></td>
       <td><strong>Panel discussion</strong></td>
     </tr>
     <tr>
-      <td><strong>17:00 AM - 19:00 AM</strong></td>
+      <td><strong>17:00 - 19:00</strong></td>
       <td><strong>Closing remarks & poster session</strong></td>
     </tr>
   </tbody>
@@ -150,11 +149,11 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
 <style>
   .clickable-row {
     cursor: pointer;
-    color: black;
+    color: rgb(73, 78, 82);
     text-decoration: none;
   }
   .clickable-row:hover {
-    color: black;
+    color: rgb(73, 78, 82);
   }
   .abstract {
     margin-top: 5px;
