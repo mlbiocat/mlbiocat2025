@@ -128,7 +128,7 @@ redirect_from:
 </div>
 
 
-<p style="font-family: 'Arial Nova Light', Arial, sans-serif;">The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" target="_blank" style="color: #1C5B62;">Mosbacher Kolloquium</a> (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology.</p>
+<p style="font-family: 'Arial Nova Light', Arial, sans-serif; margin-top:10px;">The workshop precedes the <a href="https://mosbacher-kolloquium.org/home.html" target="_blank" style="color: #1C5B62;">Mosbacher Kolloquium</a> (19–22 March 2025 in Mosbach, Germany), which will also address the role of AI in biology.</p>
 
 &nbsp;
 
