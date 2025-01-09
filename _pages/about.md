@@ -133,24 +133,27 @@ redirect_from:
 &nbsp;
 
 ## Organizers
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; align-items: center; justify-items: center; margin-top: 20px;">
-    <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="images/ETH_and_Basel.png" style="max-width: 100%; object-fit: contain;" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <div style="flex: 1; min-width: 200px;">
+        <ul style="list-style-type: none; padding-left: 0; margin-top: 20px;">
+          <li>Mojmir Mutny (ETH Zurich)</li>
+          <li>Tobias Vornholt (University of Basel)</li>
+          <li>Peter Stockinger (ZHAW)</li>
+          <li>Rebecca Buller (ZHAW)</li>
+          <li>Andreas Krause (ETH Zurich)</li>
+          <li>Thomas Ward (University of Basel)</li>
+        </ul>
     </div>
-    <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="images/zhaw_and_ccbio.png" style="max-width: 100%; object-fit: contain;" />
+    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center;">
+        <div style="width: 30%; display: flex; justify-content: center; align-items: center;">
+            <img src="images/ETH_and_Basel.png" style="max-width: 50%; object-fit: contain;" />
+        </div>
+        <div style="width: 30%; display: flex; justify-content: center; align-items: center;">
+            <img src="images/zhaw_and_ccbio.png" style="max-width: 50%; object-fit: contain;" />
+        </div>
     </div>
 </div>
 
-
-<ul style="list-style-type: none; padding-left: 0; margin-top: 20px;">
-  <li>Mojmir Mutny (ETH Zurich)</li>
-  <li>Tobias Vornholt (University of Basel)</li>
-  <li>Peter Stockinger (ZHAW)</li>
-  <li>Rebecca Buller (ZHAW)</li>
-  <li>Andreas Krause (ETH Zurich)</li>
-  <li>Thomas Ward (University of Basel)</li>
-</ul>
 
 &nbsp;
 
