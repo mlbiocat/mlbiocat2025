@@ -145,11 +145,11 @@ redirect_from:
         </ul>
     </div>
     <div style="flex: 1; display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center;">
-        <div style="width: 30%; display: flex; justify-content: center; align-items: center;">
-            <img src="images/ETH_and_Basel.png" style="max-width: 50%; object-fit: contain;" />
+        <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+            <img src="images/ETH_and_Basel.png" style="max-width: 100%; object-fit: contain;" />
         </div>
-        <div style="width: 30%; display: flex; justify-content: center; align-items: center;">
-            <img src="images/zhaw_and_ccbio.png" style="max-width: 50%; object-fit: contain;" />
+        <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+            <img src="images/zhaw_and_ccbio.png" style="max-width: 100%; object-fit: contain;" />
         </div>
     </div>
 </div>
