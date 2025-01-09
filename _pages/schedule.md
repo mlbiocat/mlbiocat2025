@@ -30,19 +30,28 @@ author_profile: true
 <table>
   <thead>
     <tr>
-      <th>Time (in Central Time, UTC-06:00)</th>
+      <th>Time</th>
       <th>Session</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>08:40 AM - 09:20 AM</strong></td>
+      <td><strong>09:00 AM - 09:30 AM</strong></td>
+      <td>Registration</td>
+    </tr>
+    <tr>
+      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td>Rebecca Buller (opening)</td>
+    </tr>
+    <tr>
+      <td><strong>09:30 AM - 09:20 AM</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          (Invited Talk) <strong>Erika DeBenedictis</strong>
+          <strong>Gustav Oberdorfer</strong> (TU Graz):
+          Computational design of highly active de novo enzymes 
         </div>
         <div class="abstract" style="display: none;">
-          Abstract: Erika will discuss the latest advancements in molecular programming and its applications in synthetic biology.
+          Abstract: tba
         </div>
       </td>
     </tr>
@@ -50,10 +59,85 @@ author_profile: true
       <td><strong>09:20 AM - 10:00 AM</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          (Invited Talk) <strong>Joel Paulson</strong>
+          <strong>Silvia Osuna</strong> (University of Girona): Beyond AlphaFold: How to computationally generate efficient enzymes?
         </div>
         <div class="abstract" style="display: none;">
-          Abstract: Joel's talk focuses on optimization techniques in dynamic systems for real-world applications.
+          Abstract: tba
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td>Coffee break</td>
+    </tr>
+    <tr>
+      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Mattia Gollub</strong> (Jura Bio)
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: tba
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Christian Gruber</strong> (Innophore)
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: tba
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Adrian Bunzel</strong> (ETH Zurich)
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: tba
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td>Lunch & Poster Session</td>
+    </tr>
+    <tr>
+      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Markus Jeschek</strong> (University of Regensburg)
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: tba
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Jürgen Pleiss</strong> (University of Stuttgart): Making enzymatic data AI-ready
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: tba
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>09:20 AM - 10:00 AM</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Ditte Hededam Welner</strong> (DTU Biosustain): How we try to use machine learning on limited-size enzymology datasets for prediction and engineering of glycosyltransferases
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: Functional prediction from enzyme sequence remains a major challenge in biocatalysis and enzyme engineering. For some enzyme families, sequence-function relationships are particularly elusive, and seem to be governed by complex patterns that escape our elucidation. This is true for glycosyltransferases of family 1. This enzyme family is promiscuous and notorious for escaping elucidation of robust structure-function relationships2. It is also an enzyme family with large industrial potential, due to its capability of regioselective and stereoselective glycosylation of a vast array of industrially relevant molecules, including pharmaceuticals, nutraceuticals, and cosmetics.
+Machine learning is becoming recognized a powerful tool in enzymology, due to its strength in recognizing patterns in complex data. It is challenged by the limited size and varying quality of many enzymology dataset. We continuously work to develop a robust and versatile predictor for glycosyltransferase prediction and engineering. The current status of this effort will be presented.
         </div>
       </td>
     </tr>
