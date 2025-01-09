@@ -146,10 +146,10 @@ redirect_from:
     </div>
     <div style="flex: 1; display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center;">
         <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-            <img src="images/ETH_and_Basel.png" style="max-width: 80%; object-fit: contain;" />
+            <img src="images/ETH_and_Basel.png" style="max-width: 250px; object-fit: contain;" />
         </div>
         <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-            <img src="images/zhaw_and_ccbio.png" style="max-width: 80%; object-fit: contain;" />
+            <img src="images/zhaw_and_ccbio.png" style="max-width: 250px; object-fit: contain;" />
         </div>
     </div>
 </div>
