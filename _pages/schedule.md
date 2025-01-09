@@ -19,11 +19,11 @@ author_profile: true
       <td><strong>09:00 - 09:30</strong></td>
       <td><strong>Registration</strong></td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:30 - 09:40</strong></td>
       <td><strong>Rebecca Buller</strong> (opening)</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:30 - 09:20</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -34,7 +34,7 @@ author_profile: true
         </div>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -49,7 +49,7 @@ author_profile: true
       <td><strong>09:30 - 09:40</strong></td>
       <td><strong>Coffee break</strong></td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -60,7 +60,7 @@ author_profile: true
         </div>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -71,7 +71,7 @@ author_profile: true
         </div>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -86,7 +86,7 @@ author_profile: true
       <td><strong>09:30 - 09:40</strong></td>
       <td><strong>Lunch & poster session</strong></td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -97,7 +97,7 @@ author_profile: true
         </div>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -108,7 +108,7 @@ author_profile: true
         </div>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>09:20 - 10:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
@@ -124,7 +124,7 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
       <td><strong>15:30 - 16:00</strong></td>
       <td><strong>Coffee break</strong></td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td><strong>16:00 - 17:00</strong></td>
       <td><strong>Panel discussion</strong></td>
     </tr>
