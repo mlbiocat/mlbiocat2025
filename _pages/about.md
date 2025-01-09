@@ -144,12 +144,12 @@ redirect_from:
           <li>Thomas Ward (University of Basel)</li>
         </ul>
     </div>
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: left;">
+    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center;">
         <div style="width: 100%; display: flex; justify-content: center; align-items: left;">
-            <img src="images/ETH_and_Basel.png" style="max-width: 75%; object-fit: contain;" />
+            <img src="images/ETH_and_Basel.png" style="max-width: 240px; object-fit: contain;" />
         </div>
         <div style="width: 100%; display: flex; justify-content: center; align-items: left;">
-            <img src="images/zhaw_and_ccbio.png" style="max-width: 75%; object-fit: contain;" />
+            <img src="images/zhaw_and_ccbio.png" style="max-width: 240px; object-fit: contain;" />
         </div>
     </div>
 </div>
