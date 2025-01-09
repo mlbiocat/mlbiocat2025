@@ -30,8 +30,8 @@ author_profile: true
 <table>
   <thead>
     <tr>
-      <th>Time</th>
-      <th>Session</th>
+      <th style="width: 20%;">Time</th>
+      <th style="width: 80%;">Session</th>
     </tr>
   </thead>
   <tbody>
@@ -51,7 +51,7 @@ author_profile: true
           Computational design of highly active de novo enzymes 
         </div>
         <div class="abstract" style="display: none;">
-          Abstract: tba
+          Abstract: Reliably introducing function into genetically encodable de novo proteins is still a challenging task. Current design methods mostly produce de novo enzymes with low activities. As a result, they require costly experimental optimization and high-throughput screening to be industrially viable. We developed rotamer inverted fragment finder–diffusion (Riff-Diff), a hybrid machine learning and atomistic modelling strategy for scaffolding catalytic arrays in de novo protein backbones. We show that proficient enzymes can be generated with Riff-Diff while screening as little as 35 designs. The talk will highlight challenges and findings during scaffolding active sites for catalyzing the retro-aldol and Morita Baylis-Hillman reaction, as well as metal cofactors of increasing complexity.
         </div>
       </td>
     </tr>
@@ -141,6 +141,18 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
         </div>
       </td>
     </tr>
+    <tr>
+      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td>Coffee break</td>
+    </tr>
+    <tr>
+      <td><strong>09:30 AM - 09:40 AM</strong></td>
+      <td>Panel discussion</td>
+    </tr>
+    <tr>
+      <td><strong>17:00 AM - 19:00 AM</strong></td>
+      <td>Closing remarks & poster session</td>
+    </tr>
     <!-- Repeat for other speakers -->
   </tbody>
 </table>
@@ -159,11 +171,11 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
 <style>
   .clickable-row {
     cursor: pointer;
-    color: #007bff;
-    text-decoration: underline;
+    color: black;
+    text-decoration: none;
   }
   .clickable-row:hover {
-    color: #0056b3;
+    color: black;
   }
   .abstract {
     margin-top: 5px;
