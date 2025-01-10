@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: true
 ---
 
-
+<p>Click to view abstracts.</p>
 
 <table>
   <thead>
