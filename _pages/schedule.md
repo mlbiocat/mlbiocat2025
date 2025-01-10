@@ -20,11 +20,11 @@ author_profile: true
       <td><strong>Registration</strong></td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:30 - 09:40</strong></td>
+      <td><strong>09:30 - 09:45</strong></td>
       <td><strong>Rebecca Buller</strong> (opening)</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:30 - 09:20</strong></td>
+      <td><strong>09:45 - 10:20</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Gustav Oberdorfer</strong> (TU Graz): Computational design of highly active de novo enzymes 
@@ -35,7 +35,7 @@ author_profile: true
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:20 - 10:00</strong></td>
+      <td><strong>10:20 - 10:55</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Sílvia Osuna</strong> (University of Girona): Beyond AlphaFold: How to computationally generate efficient enzymes?
@@ -46,11 +46,11 @@ author_profile: true
       </td>
     </tr>
     <tr>
-      <td><strong>09:30 - 09:40</strong></td>
+      <td><strong>10:55 - 11:10</strong></td>
       <td><strong>Coffee break</strong></td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:20 - 10:00</strong></td>
+      <td><strong>11:10 - 11:35</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Mattia Gollub</strong> (Jura Bio)
@@ -61,7 +61,7 @@ author_profile: true
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:20 - 10:00</strong></td>
+      <td><strong>11:35 - 12:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Christian Gruber</strong> (Innophore)
@@ -72,7 +72,22 @@ author_profile: true
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:20 - 10:00</strong></td>
+      <td><strong>12:00 - 12:25</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Jürgen Pleiss</strong> (University of Stuttgart): Making enzymatic data AI-ready
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: tba
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>12:25 - 14:00</strong></td>
+      <td><strong>Lunch & poster session</strong></td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td><strong>14:00 - 14:25</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Adrian Bunzel</strong> (ETH Zurich)
@@ -82,12 +97,8 @@ author_profile: true
         </div>
       </td>
     </tr>
-    <tr>
-      <td><strong>09:30 - 09:40</strong></td>
-      <td><strong>Lunch & poster session</strong></td>
-    </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:20 - 10:00</strong></td>
+      <td><strong>14:25 - 15:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Markus Jeschek</strong> (University of Regensburg)
@@ -98,18 +109,7 @@ author_profile: true
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>09:20 - 10:00</strong></td>
-      <td>
-        <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Jürgen Pleiss</strong> (University of Stuttgart): Making enzymatic data AI-ready
-        </div>
-        <div class="abstract" style="display: none;">
-          Abstract: tba
-        </div>
-      </td>
-    </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td><strong>09:20 - 10:00</strong></td>
+      <td><strong>15:00 - 15:35</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Ditte Hededam Welner</strong> (DTU Biosustain): How we try to use machine learning on limited-size enzymology datasets for prediction and engineering of glycosyltransferases
@@ -121,7 +121,7 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
       </td>
     </tr>
     <tr>
-      <td><strong>15:30 - 16:00</strong></td>
+      <td><strong>15:35 - 16:00</strong></td>
       <td><strong>Coffee break</strong></td>
     </tr>
     <tr style="background-color: #f9f9f9;">
