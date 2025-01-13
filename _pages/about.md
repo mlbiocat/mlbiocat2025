@@ -77,14 +77,9 @@ redirect_from:
   <li>High-throughput screening and automation</li>
 </ul>
 
-<a href="/cfp/" style="text-decoration: none; display: block; padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: left; cursor: pointer; width: 100%; margin: 0 auto; margin-top: 20px">
+<a href="/mlbiocat2025//cfp/" style="text-decoration: none; display: block; padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: left; cursor: pointer; width: 100%; margin: 0 auto; margin-top: 20px">
   <strong>Click here for more information and to submit an abstract &gt;&gt;&gt;</strong>
 </a>
-
-<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
-  <strong>Poster Requirements:</strong> A1 size.  
-  <strong><a href="  https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank">Register your poster here.</a></strong>
-</div>
 
 &nbsp;
 
