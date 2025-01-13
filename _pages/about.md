@@ -39,7 +39,7 @@ redirect_from:
   <li>Effective communication between wet-lab and dry-lab teams.</li>
 </ul>
 
-<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; margin-top: 10px">
+<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; margin-top: 20px">
   <strong>Registration is now</strong>  
   <strong><a href="https://mlbiocat.github.io/mlbiocat2025//cfp/">open</a>!</strong>
 </div>
