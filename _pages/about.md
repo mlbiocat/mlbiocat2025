@@ -39,9 +39,7 @@ redirect_from:
   <li>Effective communication between wet-lab and dry-lab teams.</li>
 </ul>
 
-&nbsp;
-
-<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
+<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; margin-top: 10px">
   <strong>Registration is now</strong>  
   <strong><a href="https://mlbiocat.github.io/mlbiocat2025//cfp/">open</a>!</strong>
 </div>
@@ -100,7 +98,7 @@ redirect_from:
   <div style="flex: 1; display: flex; justify-content: center; align-items: center; position: relative;">
     <iframe 
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107465.2871738979!2d8.420312774503204!3d47.405257509342526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa10077f7ad79%3A0xa00b68137ff59d55!2sETH%20HG!5e0!3m2!1sde!2sch!4v1734633219843!5m2!1sde!2sch" 
-      style="border:0; height: 60%; aspect-ratio: 1;" 
+      style="border:0; height: 80%; aspect-ratio: 1;" 
       allowfullscreen="" 
       loading="lazy" 
       referrerpolicy="no-referrer-when-downgrade">
@@ -149,8 +147,7 @@ redirect_from:
     <a href="https://mlbiocat.github.io/mlbiocat2025/_pages/contact_form.html" 
        onclick="window.open(this.href, '_blank', 'width=800,height=600'); return false;" 
        style="color: #6FA64A; text-decoration: underline;">
-        reach out
-    </a> 
-    to us if you are interested in sponsoring the event!
+        reach out</a> 
+     to us if you are interested in sponsoring the event!
 </p>
 
