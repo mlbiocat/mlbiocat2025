@@ -8,9 +8,11 @@ sitemap: false
   <img src="https://mlbiocat.github.io/mlbiocat2025/images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
 
+<a href=" https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank" style="text-decoration: none;">
 <div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: center;">
-  <strong><a href=" https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank">Click here</a> to register and submit a poster abstract.</strong>
+  <strong>Click here to register and submit a poster abstract.</strong>
 </div>
+</a>
 
 ## Important Dates
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #6FA64A; width: 80%; margin: 0 auto;">
