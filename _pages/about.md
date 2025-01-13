@@ -88,12 +88,12 @@ redirect_from:
 &nbsp;
 
 ## Location
-<div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between; height: 350px;"> 
+<div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between; height: 300px;"> 
   <!-- Left Column (Text) -->
   <div style="flex: 1; padding-right: 20px; display: flex; flex-direction: column; justify-content: center;">
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zürich, Main Campus</strong></p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Date:</strong> 18 March 2025</p>
-    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Time:</strong> 9:30 AM - 5:00 PM</p>
+    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Time:</strong> 9:30 AM - 7:00 PM</p>
   </div>
   
   <!-- Right Column (Map) -->
