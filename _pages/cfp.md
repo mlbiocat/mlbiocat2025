@@ -16,9 +16,9 @@ sitemap: false
 ## Important Dates
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #6FA64A; width: 80%; margin: 0 auto;">
   <ul style="font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li><strong>Submission system is now open.</strong>
- </li>
+    <li><strong>Submission system is now open.</strong></li>
     <li><strong>Registration and poster submission deadline:</strong> 3 March 2025 11:59 PM (CET)</li>
+    <li><strong>The number of participants is limited. Attendees with posters will be prioritized.</strong></li>
   </ul>
 </div>
 
@@ -30,15 +30,15 @@ sitemap: false
   <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">We welcome submissions of posters. Technical topics of interest include (but are not limited to):</p>
 
   <ul style="list-style-type: square; font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li>Enzyme design with computational tools</li>
-    <li>ML designed proteins</li>
+    <li>De novo enzyme design</li>
+    <li>ML-guided directed evolution</li>
     <li>Protein representation with ML</li>
+    <li>Enzyme discovery and function prediction</li>
     <li>Molecular dynamics, docking for proteins</li>
-    <li>Enzyme assay prediction</li>
+    <li>Enzyme property prediction</li>
+    <li>Biocatalytic retrosynthesis</li>
     <li>Laboratory automation</li>
     <li>High-throughput experimentation</li>
-    <li>De novo design</li>
-    <li>Practical perspectives on enzyme design</li>
   </ul>
 </div>
 
