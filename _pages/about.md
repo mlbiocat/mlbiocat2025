@@ -44,6 +44,10 @@ redirect_from:
   <strong><a href="https://mlbiocat.github.io/mlbiocat2025//cfp/">open</a>!</strong>
 </div>
 
+<a href="https://mlbiocat.github.io/mlbiocat2025//cfp/" target="_blank" style="text-decoration: none; display: block; padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: center; cursor: pointer; width: 100%; margin: 0 auto;">
+  <strong>Registration is now open >>></strong>
+</a>
+
 ## Speakers and Panelists
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Confirmed speakers:</p>
 <div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px;">
