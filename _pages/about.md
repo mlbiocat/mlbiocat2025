@@ -41,7 +41,6 @@ redirect_from:
 
 &nbsp;
 
-&nbsp;
 ## Registration
   <strong>Register attendance and poster [here.](
   https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog) </strong>
