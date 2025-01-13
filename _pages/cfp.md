@@ -34,7 +34,7 @@ sitemap: false
     <li>Machine learning-assisted directed evolution</li>
     <li>Protein representation with ML</li>
     <li>Enzyme discovery and function prediction</li>
-    <li>Molecular dynamics, docking for proteins</li>
+    <li>Molecular dynamics and docking</li>
     <li>Enzyme property prediction</li>
     <li>Biocatalytic retrosynthesis</li>
     <li>Laboratory automation</li>
