@@ -41,9 +41,11 @@ redirect_from:
 
 &nbsp;
 
-## Registration
-  <strong>Register attendance and poster [here.](
-  https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog) </strong>
+<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
+  <strong>Click</strong>  
+  <strong><a href="  https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank">here</a></strong>
+  <strong>to register and submit a poster.</strong>
+</div>
 
 ## Speakers and Panelists
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Confirmed speakers:</p>
