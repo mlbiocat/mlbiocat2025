@@ -39,9 +39,11 @@ redirect_from:
   <li>Effective communication between wet-lab and dry-lab teams.</li>
 </ul>
 
+&nbsp;
+
 <div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
   <strong>Registration is now</strong>  
-  <strong><a href="https://mlbiocat.github.io/mlbiocat2025//schedule/">open!</a></strong>
+  <strong><a href="[https://mlbiocat.github.io/mlbiocat2025//schedule](https://mlbiocat.github.io/mlbiocat2025//cfp/)/">open</a>!</strong>
 </div>
 
 ## Speakers and Panelists
@@ -86,7 +88,7 @@ redirect_from:
 &nbsp;
 
 ## Location
-<div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between; height: 400px;"> 
+<div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between; height: 350px;"> 
   <!-- Left Column (Text) -->
   <div style="flex: 1; padding-right: 20px; display: flex; flex-direction: column; justify-content: center;">
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zürich, Main Campus</strong></p>
