@@ -40,6 +40,9 @@ sitemap: false
     <li>Laboratory automation</li>
     <li>High-throughput experimentation</li>
   </ul>
+  
+  <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">Poster requirements: A1 format.</p>
+  
 </div>
 
 &nbsp;
