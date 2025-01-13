@@ -27,7 +27,7 @@ sitemap: false
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #6FA64A; width: 100%; margin: 0 auto;">
   <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">Enzyme design with machine learning represents a transformative approach in biotechnology, leveraging computational power to tackle the intricate challenge of creating or optimizing enzymes for specific functions. However, despite significant progress, many challenges remain unresolved, and the success rate of such endeavors remains relatively low. Issues such as the accurate modeling of enzyme dynamics, the scarcity of high-quality training data, and the complexity of protein function prediction hinder the reliability and scalability of machine learning approaches. Additionally, bridging the gap between in silico predictions and experimental validation often reveals limitations in current computational tools. As researchers strive to enhance model robustness, improve data integration, and develop better frameworks for collaboration between computational and experimental teams, the full potential of machine learning in enzyme design is yet to be realized. This highlights the need for continued innovation and interdisciplinary efforts to overcome these hurdles and unlock transformative applications in biotechnology.</p>
   
-  <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">We welcome submissions of posters. Technical topics of interest include (but are not limited to):</p>
+  <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>We welcome submissions of posters. Technical topics of interest include (but are not limited to):</strong></p>
 
   <ul style="list-style-type: square; font-family: 'Arial Nova Light', Arial, sans-serif;">
     <li><em>De novo</em> enzyme design</li>
@@ -41,7 +41,7 @@ sitemap: false
     <li>High-throughput experimentation</li>
   </ul>
   
-  <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">Poster requirements: A1 format.</p>
+  <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Poster requirements: A1 format.</strong></p>
   
 </div>
 
