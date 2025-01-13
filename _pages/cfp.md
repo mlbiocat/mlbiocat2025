@@ -15,7 +15,7 @@ sitemap: false
 ## Important Dates
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #6FA64A; width: 80%; margin: 0 auto;">
   <ul style="font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li><strong>Submission system is now open.</a></strong>
+    <li><strong>Submission system is now open.</strong>
  </li>
     <li><strong>Registration and poster submission deadline:</strong> 3 March 2025 11:59 PM (CET)</li>
   </ul>
