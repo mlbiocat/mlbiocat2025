@@ -41,25 +41,6 @@ redirect_from:
 
 &nbsp;
 
-## Preliminary Program
-<div style="border: 2px solid #1C5B62; border-radius: 8px; padding: 15px;">
-  <ul style="font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li><strong>09:30 - 09:40</strong> Opening (Rebecca Buller)</li>
-    <li><strong>09:40 - 10:20</strong> Keynote 1</li>
-    <li><strong>10:20 - 11:00</strong> Keynote 2</li>
-    <li><strong>11:00 - 11:20</strong> Coffee Break</li>
-    <li><strong>11:20 - 11:40</strong> Spotlight 1</li>
-    <li><strong>11:40 - 12:00</strong> Spotlight 2</li>
-    <li><strong>12:00 - 13:40</strong> Lunch & Poster Session</li>
-    <li><strong>13:40 - 14:20</strong> Keynote 3</li>
-    <li><strong>14:20 - 15:00</strong> Keynote 4</li>
-    <li><strong>15:00 - 15:20</strong> Spotlight 3</li>
-    <li><strong>15:20 - 16:00</strong> Coffee Break</li>
-    <li><strong>16:00 - 17:00</strong> Panel Discussion</li>
-    <li><strong>17:00 - 18:00</strong> Closing Remarks & Poster Session</li>
-  </ul>
-</div>
-
 &nbsp;
 ## Registration
   <strong>Register attendance and poster [here.](
