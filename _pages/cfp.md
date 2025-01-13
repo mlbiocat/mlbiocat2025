@@ -47,4 +47,4 @@ sitemap: false
 
 
 ## Contact
-<p style="font-family: 'Arial Nova Light', Arial, sans-serif; text-align: center;">Please reach out to the organizers via e-mail if you have any questions: <a href="mailto:mojmir.mutny@inf.ethz.ch" style="color: #6FA64A; text-decoration: underline;">mojmir.mutny@inf.ethz.ch</a></p>
+<p style="font-family: 'Arial Nova Light', Arial, sans-serif; text-align: left;">Please reach out to the organizers via e-mail if you have any questions: <a href="mailto:mojmir.mutny@inf.ethz.ch" style="color: #6FA64A; text-decoration: underline;">mojmir.mutny@inf.ethz.ch</a></p>
