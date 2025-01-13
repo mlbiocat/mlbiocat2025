@@ -73,8 +73,8 @@ redirect_from:
   <li><em>De novo</em> enzyme design</li>
   <li>Machine learning-assisted directed evolution</li>
   <li>Protein representation with ML</li>
+  <li>Enzyme discovery and function prediction</li>
   <li>Molecular dynamics and docking</li>
-  <li>Enzyme assay prediction</li>
   <li>High-throughput screening and automation</li>
 </ul>
 
