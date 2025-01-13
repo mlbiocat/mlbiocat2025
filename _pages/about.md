@@ -39,8 +39,8 @@ redirect_from:
   <li>Effective communication between wet-lab and dry-lab teams.</li>
 </ul>
 
-<a href="https://mlbiocat.github.io/mlbiocat2025//cfp/" style="text-decoration: none; display: block; padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: left; cursor: pointer; width: 100%; margin: 0 auto;">
-  <strong>Registration is now open >>> </strong>
+<a href="https://mlbiocat.github.io/mlbiocat2025//cfp/" style="text-decoration: none; display: block; padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: left; cursor: pointer; width: 100%; margin: 0 auto; margin-top: 20px">
+  <strong>Registration is now open &gt;&gt;&gt;</strong>
 </a>
 
 ## Speakers and Panelists
