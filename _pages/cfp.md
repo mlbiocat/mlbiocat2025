@@ -9,7 +9,7 @@ sitemap: false
 </div>
 
 <div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: center;">
-  <strong><a href=" https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank">Click here</a> to register and submit a poster.</strong>
+  <strong><a href=" https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank">Click here</a> to register and submit a poster abstract.</strong>
 </div>
 
 ## Important Dates
