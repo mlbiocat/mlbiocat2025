@@ -43,7 +43,7 @@ redirect_from:
 
 <div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
   <strong>Registration is now</strong>  
-  <strong><a href="[https://mlbiocat.github.io/mlbiocat2025//schedule](https://mlbiocat.github.io/mlbiocat2025//cfp/)/">open</a>!</strong>
+  <strong><a href="https://mlbiocat.github.io/mlbiocat2025//cfp/">open</a>!</strong>
 </div>
 
 ## Speakers and Panelists
