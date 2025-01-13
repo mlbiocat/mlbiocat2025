@@ -2,7 +2,9 @@
 main:
   - title: "Main"
     url: /about/    
-  - title: "Submit Poster"
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Registration & Poster Submission"
     url: /cfp/
   #- title: "Schedule"
   #  url: /schedule/
