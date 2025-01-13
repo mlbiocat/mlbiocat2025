@@ -30,8 +30,8 @@ sitemap: false
   <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">We welcome submissions of posters. Technical topics of interest include (but are not limited to):</p>
 
   <ul style="list-style-type: square; font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li>De novo enzyme design</li>
-    <li>ML-guided directed evolution</li>
+    <li><em>De novo</em> enzyme design</li>
+    <li>Machine learning-assisted directed evolution</li>
     <li>Protein representation with ML</li>
     <li>Enzyme discovery and function prediction</li>
     <li>Molecular dynamics, docking for proteins</li>
