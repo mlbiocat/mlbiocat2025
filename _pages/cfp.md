@@ -8,9 +8,7 @@ sitemap: false
   <img src="https://mlbiocat.github.io/mlbiocat2025/images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
 
-&nbsp;
-
-<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px;">
+<div style="padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: center;">
   <strong><a href=" https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank">Click here</a> to register and submit a poster.</strong>
 </div>
 
@@ -22,8 +20,6 @@ sitemap: false
     <li><strong>Registration and poster submission deadline:</strong> 3 March 2025 11:59 PM (CET)</li>
   </ul>
 </div>
-
-&nbsp;
 
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif; text-align: center;">Please reach out to the organizers via e-mail if you have any questions: <a href="mailto:mojmir.mutny@inf.ethz.ch" style="color: #6FA64A; text-decoration: underline;">mojmir.mutny@inf.ethz.ch</a></p>
 
