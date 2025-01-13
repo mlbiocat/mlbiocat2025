@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Workshop Schedule"
+title: "Tentative Workshop Schedule"
 permalink: /schedule/
 author_profile: true
 ---
