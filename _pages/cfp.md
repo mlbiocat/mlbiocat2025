@@ -21,8 +21,6 @@ sitemap: false
   </ul>
 </div>
 
-<p style="font-family: 'Arial Nova Light', Arial, sans-serif; text-align: center;">Please reach out to the organizers via e-mail if you have any questions: <a href="mailto:mojmir.mutny@inf.ethz.ch" style="color: #6FA64A; text-decoration: underline;">mojmir.mutny@inf.ethz.ch</a></p>
-
 
 ## Call for Posters
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #6FA64A; width: 80%; margin: 0 auto;">
@@ -44,3 +42,7 @@ sitemap: false
 </div>
 
 &nbsp;
+
+
+## Contact
+<p style="font-family: 'Arial Nova Light', Arial, sans-serif; text-align: center;">Please reach out to the organizers via e-mail if you have any questions: <a href="mailto:mojmir.mutny@inf.ethz.ch" style="color: #6FA64A; text-decoration: underline;">mojmir.mutny@inf.ethz.ch</a></p>
