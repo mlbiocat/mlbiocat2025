@@ -38,7 +38,7 @@ author_profile: true
       <td><strong>10:20 - 10:55</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Sílvia Osuna</strong> (University of Girona): Beyond AlphaFold: How to computationally generate efficient enzymes?
+          <strong>Silvia Osuna</strong> (University of Girona): Beyond AlphaFold: How to computationally generate efficient enzymes?
         </div>
         <div class="abstract" style="display: none;">
           Abstract: tba
@@ -79,10 +79,10 @@ author_profile: true
         </div>
         <div class="abstract" style="display: none;">
           Abstract: Data management has become a bottleneck to progress in biocatalysis. In order to take advantage of the rapid progress in experimental and computational technologies, biocatalytic data should be     findable, accessible, interoperable, and reusable (FAIR), and data analysis should be scalable and reproducible.[1] The EnzymeML framework (https://github.com/EnzymeML) provides reusable tools and a standardized data exchange format for FAIR and scalable data management in biocatalysis.[2] An EnzymeML document contains information about reaction conditions and the measured time course of substrate or product concentrations, and about the rate equation and the estimated kinetic parameters of the subsequent modelling step.[3] The final EnzymeML document is entered into a local database or is uploaded to a public repository. The workflow of a project is encoded as Jupyter Notebook, which can be re-used or extended. Machine-readable data enable the application of AI tools at different stages of the data life cycle: upon parsing of data and metadata and for modelling of reaction kinetics, where machine learning approaches complement ODE-based mechanistic modelling.[4] The FAIRification of data and software and the digitalization of biocatalysis improve the efficiency of research by automation, guarantee the scientific quality by reproducibility, and enable the application of novel modelling strategies. 
-
-1.	Pleiss, J. FAIR data and software: improving efficiency and quality of biocatalytic science. ACS Catal 14, 2709-2718 (2024).
-2.	Lauterbach, S. et al. EnzymeML: seamless data flow and modeling of enzymatic data. Nat Methods 20, 400-402 (2023).
-3.	Range, J. et al. EnzymeML—a data exchange format for biocatalysis and enzymology. FEBS J 289, 5864-5874 (2022).
+<br>
+1.	Pleiss, J. FAIR data and software: improving efficiency and quality of biocatalytic science. ACS Catal 14, 2709-2718 (2024).<br>
+2.	Lauterbach, S. et al. EnzymeML: seamless data flow and modeling of enzymatic data. Nat Methods 20, 400-402 (2023).<br>
+3.	Range, J. et al. EnzymeML—a data exchange format for biocatalysis and enzymology. FEBS J 289, 5864-5874 (2022).<br>
 4.	Pleiss, J. Modeling enzyme kinetics: current challenges and future perspectives for biocatalysis. Biochemistry 63, 2533-2541 (2024).
         </div>
       </td>
