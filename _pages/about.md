@@ -141,7 +141,7 @@ redirect_from:
 </div>
 <br>
 <div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
-    <img src="images/innophore_nccr.png" style="max-width: 240px; object-fit: contain;" />
+    <img src="images/innophore_nccr.png" style="max-width: 100%; object-fit: contain;" />
 </div>
 <br>
 
