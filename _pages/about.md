@@ -52,6 +52,7 @@ redirect_from:
     <li>Gustav Oberdorfer (TU Graz)</li>
     <li>Markus Jeschek (University of Regensburg)</li>
     <li>Jürgen Pleiss (University of Stuttgart)</li>
+    <li>Christian Gruber (Innophore GmbH)</li>
     <li>Adrian Bunzel (ETH Zurich)</li>
     <li>Mattia Gollub (Jura Bio)</li>
   </ul>
