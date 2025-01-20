@@ -129,9 +129,6 @@ redirect_from:
         <div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
             <img src="images/zhaw_and_ccbio.png" style="max-width: 240px; object-fit: contain;" />
         </div>
-        <div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
-            <img src="images/innophore_nccr.png" style="max-width: 240px; object-fit: contain;" />
-        </div>
    </div>
 </div>
 
@@ -141,6 +138,10 @@ redirect_from:
 ## Sponsors
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
     <img src="images/nccr_mse_snsf.png" style="max-width: 100%; object-fit: contain;" />
+</div>
+<br>
+<div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
+    <img src="images/innophore_nccr.png" style="max-width: 240px; object-fit: contain;" />
 </div>
 <br>
 
