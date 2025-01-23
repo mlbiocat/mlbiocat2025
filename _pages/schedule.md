@@ -95,7 +95,7 @@ author_profile: true
       <td><strong>14:00 - 14:25</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Adrian Bunzel</strong> (ETH Zurich)
+          <strong>Adrian Bunzel</strong> (ETH Zurich): AI-based evolutionary enzyme design
         </div>
         <div class="abstract" style="display: none;">
           Abstract: tba
@@ -134,8 +134,12 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
       <td><strong>Panel discussion</strong></td>
     </tr>
     <tr>
-      <td><strong>17:00 - 19:00</strong></td>
-      <td><strong>Closing remarks & poster session</strong></td>
+      <td><strong>17:00 - 17:15</strong></td>
+      <td><strong>Andreas Krause (closing remarks)</strong></td>
+    </tr>
+        <tr>
+      <td><strong>17:15 - 19:00</strong></td>
+      <td><strong>Poster session and apéro</strong> (sponsored by Innophore)</td>
     </tr>
   </tbody>
 </table>
