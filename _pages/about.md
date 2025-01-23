@@ -137,9 +137,9 @@ redirect_from:
 
 ## Sponsors
 <div class="image-grid">
-    <img src="images/NCCR_MSE_logo.jpg" alt="NCCR MSE Logo" />
-    <img src="images/nccr_catalysis_logo.png" alt="NCCR Catalysis Logo" />
-    <img src="images/SNSF_logo.png" alt="SNSF Logo" />
+    <img src="images/nccr_mse_norm.png" alt="NCCR MSE Logo" />
+    <img src="images/nccr_catalysis_norm.png" alt="NCCR Catalysis Logo" />
+    <img src="images/nccr_snsf_norm.png" alt="SNSF Logo" />
     <img src="images/Adaptyv Bio logo.png" alt="Adaptyv Bio Logo" />
     <img src="images/Twist_logo.jpg" alt="Twist Bioscience Logo" />
     <img src="images/Innophore.png" alt="Innophore Logo" />
