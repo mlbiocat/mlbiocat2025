@@ -156,8 +156,8 @@ redirect_from:
         align-items: center;
     }
     .image-grid img {
-        max-width: 33%;
-        flex-basis: 33%;
+        max-width: 32%;
+        flex-basis: 32%;
         object-fit: contain;
         margin-bottom: 10px;
     }
