@@ -135,7 +135,7 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td><strong>17:00 - 17:15</strong></td>
-      <td><strong>Andreas Krause (closing remarks)</strong></td>
+      <td><strong>Andreas Krause</strong> (closing remarks)</td>
     </tr>
         <tr>
       <td><strong>17:15 - 19:00</strong></td>
