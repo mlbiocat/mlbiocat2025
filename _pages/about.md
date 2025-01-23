@@ -141,8 +141,10 @@ redirect_from:
     <img src="images/nccr_catalysis_norm.png" alt="NCCR Catalysis Logo" />
     <img src="images/snsf_norm.png" alt="SNSF Logo" />
     <img src="images/adaptyvbio_norm.png" alt="Adaptyv Bio Logo" />
-    <img src="images/twist_norm.png" alt="Twist Bioscience Logo" />
+    <img src="images/twist_norm_white.png" alt="Twist Bioscience Logo" />
     <img src="images/innophore_norm.png" alt="Innophore Logo" />
+    <img src="images/inseit_norm.png" alt="Inseit Logo" />
+    <img src="images/ccbio_norm.png" alt="CCBIO Logo" />
 </div>
 
 <style>
