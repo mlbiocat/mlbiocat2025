@@ -159,3 +159,24 @@ redirect_from:
      to us if you are interested in sponsoring the event!
 </p>
 
+
+
+
+
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <img src="images/NCCR_MSE_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/nccr_catalysis_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/SNSF_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/Adaptyv Bio logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%; margin-right: 10px;" />
+    <img src="images/Twist_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/Innophore.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+</div>
+<style>
+    @media (max-width: 768px) {
+        div[style*="flex-wrap"] img {
+            max-width: 45%;
+            flex-basis: 45%;
+        }
+    }
+</style>
+
