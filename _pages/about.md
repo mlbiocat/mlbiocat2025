@@ -162,6 +162,9 @@ redirect_from:
         margin-bottom: 10px;
     }
     @media (max-width: 768px) {
+        .image-grid {
+            justify-content: center;
+        }
         .image-grid img {
             max-width: 45%;
             flex-basis: 45%;
