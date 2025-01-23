@@ -144,7 +144,7 @@ redirect_from:
     <img src="images/innophore_nccr.png" style="max-width: 100%; object-fit: contain;" />
 </div>
 <br>
-<div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
+<div style="width: 50%; display: flex; justify-content: flex-start; align-items: center;">
     <img src="images/Adaptyv Bio logo.png" style="max-width: 100%; object-fit: contain;" />
 </div>
 <br>
