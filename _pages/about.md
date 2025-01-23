@@ -143,7 +143,8 @@ redirect_from:
     <img src="images/adaptyvbio_norm.png" alt="Adaptyv Bio Logo" />
     <img src="images/twist_norm_white.png" alt="Twist Bioscience Logo" />
     <img src="images/innophore_norm.png" alt="Innophore Logo" />
-    <img src="images/inseit_ccbio-01.png" alt="Inseit and CCBIO Logo" />
+    <img src="images/inseit_norm.png" alt="Inseit Logo" />
+    <img src="images/ccbio_norm.png" alt="CCBIO Logo" />
 </div>
 
 <style>
