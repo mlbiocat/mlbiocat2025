@@ -136,18 +136,22 @@ redirect_from:
 &nbsp;
 
 ## Sponsors
-<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-    <img src="images/nccr_mse_snsf.png" style="max-width: 100%; object-fit: contain;" />
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <img src="images/NCCR_MSE_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/nccr_catalysis_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/SNSF_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/Adaptyv Bio logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/Twist_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+    <img src="images/Innophore.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
 </div>
-<br>
-<div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
-    <img src="images/innophore_nccr.png" style="max-width: 100%; object-fit: contain;" />
-</div>
-<br>
-<div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
-    <img src="images/Adaptyv Bio logo.png" style="max-width: 45%; object-fit: contain; margin-right: 10px" />
-    <img src="images/Twist_logo.jpg" style="max-width: 45%; object-fit: contain;" />
-</div>
+<style>
+    @media (max-width: 768px) {
+        div[style*="flex-wrap"] img {
+            max-width: 45%;
+            flex-basis: 45%;
+        }
+    }
+</style>
 <br>
 
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">
@@ -163,20 +167,5 @@ redirect_from:
 
 
 
-<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-    <img src="images/NCCR_MSE_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/nccr_catalysis_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/SNSF_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/Adaptyv Bio logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%; margin-right: 10px;" />
-    <img src="images/Twist_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/Innophore.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-</div>
-<style>
-    @media (max-width: 768px) {
-        div[style*="flex-wrap"] img {
-            max-width: 45%;
-            flex-basis: 45%;
-        }
-    }
-</style>
+
 
