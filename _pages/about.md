@@ -12,7 +12,7 @@ redirect_from:
   <img src="images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
 
-#### <center style="font-family: 'Arial Nova Light', Arial, sans-serif;"> In-person workshop, 18 March 2025 @ETH Zürich</center> ####
+#### <center style="font-family: 'Arial Nova Light', Arial, sans-serif;"> In-person workshop, 18 March 2025 @ETH Zurich</center> ####
 
 <div style="border-bottom: 4px solid #6FA64A; margin-top: 20px;"></div>
 
@@ -88,7 +88,7 @@ redirect_from:
 <div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between; height: 300px;"> 
   <!-- Left Column (Text) -->
   <div style="flex: 1; padding-right: 20px; display: flex; flex-direction: column; justify-content: center;">
-    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zürich, Main Campus</strong><br>Alumni Pavillon (MM C 78.1)</p>
+    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zurich, Main Campus</strong><br>Alumni Pavillon (MM C 78.1)</p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Date:</strong> 18 March 2025</p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Time:</strong> 9:30 AM - 7:00 PM</p>
   </div>
