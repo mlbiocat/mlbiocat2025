@@ -157,7 +157,7 @@ redirect_from:
         max-width: 33%;
         flex-basis: 33%;
         object-fit: contain;
-        margin-bottom: 10px; /* Add space between rows */
+        margin-bottom: 10px;
     }
     @media (max-width: 768px) {
         .image-grid img {
@@ -168,7 +168,7 @@ redirect_from:
 </style>
 
 
-<p style="font-family: 'Arial Nova Light', Arial, sans-serif;">
+<p style="font-family: 'Arial Nova Light', Arial, sans-serif; margin-top: 20px;">
     Please 
     <a href="https://mlbiocat.github.io/mlbiocat2025/_pages/contact_form.html" 
        onclick="window.open(this.href, '_blank', 'width=800,height=600'); return false;" 
