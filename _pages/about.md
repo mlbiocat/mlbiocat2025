@@ -62,7 +62,7 @@ redirect_from:
 
 ## Panel Discussion
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #1C5B62;">
-  <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">A panel discussion will explore current challenges both from the experimental as well as the computational perspective. All workshop participants are invited to contribute to the discussion by submitting questions. Following the event, the discussion will be summarized in a white paper, which will be made available on bioRxiv.</p>
+  <p style="text-align: justify; font-family: 'Arial Nova Light', Arial, sans-serif;">A panel discussion will explore current challenges both from the experimental as well as the computational perspective. All workshop participants are invited to contribute to the discussion by submitting questions. Following the event, the discussion will be summarized in a white paper.</p>
 </div>
 
 &nbsp;
@@ -88,7 +88,7 @@ redirect_from:
 <div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px; display: flex; justify-content: space-between; height: 300px;"> 
   <!-- Left Column (Text) -->
   <div style="flex: 1; padding-right: 20px; display: flex; flex-direction: column; justify-content: center;">
-    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zürich, Main Campus</strong></p>
+    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zürich, Main Campus</strong><br>Alumni Pavillon (MM C 78.1)</p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Date:</strong> 18 March 2025</p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Time:</strong> 9:30 AM - 7:00 PM</p>
   </div>
