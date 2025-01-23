@@ -136,23 +136,37 @@ redirect_from:
 &nbsp;
 
 ## Sponsors
-<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-    <img src="images/NCCR_MSE_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/nccr_catalysis_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/SNSF_logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/Adaptyv Bio logo.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/Twist_logo.jpg" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
-    <img src="images/Innophore.png" style="max-width: 33%; object-fit: contain; flex-basis: 33%;" />
+<div class="image-grid">
+    <img src="images/NCCR_MSE_logo.jpg" alt="NCCR MSE Logo" />
+    <img src="images/nccr_catalysis_logo.png" alt="NCCR Catalysis Logo" />
+    <img src="images/SNSF_logo.png" alt="SNSF Logo" />
+    <img src="images/Adaptyv Bio logo.png" alt="Adaptyv Bio Logo" />
+    <img src="images/Twist_logo.jpg" alt="Twist Bioscience Logo" />
+    <img src="images/Innophore.png" alt="Innophore Logo" />
 </div>
+
 <style>
+    .image-grid {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .image-grid img {
+        max-width: 33%;
+        flex-basis: 33%;
+        object-fit: contain;
+        margin-bottom: 10px; /* Add space between rows */
+    }
     @media (max-width: 768px) {
-        div[style*="flex-wrap"] img {
+        .image-grid img {
             max-width: 45%;
             flex-basis: 45%;
         }
     }
 </style>
-<br>
+
 
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">
     Please 
