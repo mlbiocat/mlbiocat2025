@@ -145,8 +145,8 @@ redirect_from:
 </div>
 <br>
 <div style="width: 100%; display: flex; justify-content: flex-start; align-items: center;">
-    <img src="images/Adaptyv Bio logo.png" style="max-width: 50%; object-fit: contain;" />
-    <img src="images/Twist_logo.jpg" style="max-width: 50%; object-fit: contain;" />
+    <img src="images/Adaptyv Bio logo.png" style="max-width: 45%; object-fit: contain; margin-right: 10px" />
+    <img src="images/Twist_logo.jpg" style="max-width: 45%; object-fit: contain;" />
 </div>
 <br>
 
