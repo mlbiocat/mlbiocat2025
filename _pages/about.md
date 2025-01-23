@@ -139,10 +139,10 @@ redirect_from:
 <div class="image-grid">
     <img src="images/nccr_mse_norm.png" alt="NCCR MSE Logo" />
     <img src="images/nccr_catalysis_norm.png" alt="NCCR Catalysis Logo" />
-    <img src="images/nccr_snsf_norm.png" alt="SNSF Logo" />
-    <img src="images/Adaptyv Bio logo.png" alt="Adaptyv Bio Logo" />
-    <img src="images/Twist_logo.jpg" alt="Twist Bioscience Logo" />
-    <img src="images/Innophore.png" alt="Innophore Logo" />
+    <img src="images/snsf_norm.png" alt="SNSF Logo" />
+    <img src="images/adaptyvbio_norm.png" alt="Adaptyv Bio Logo" />
+    <img src="images/twist_norm.png" alt="Twist Bioscience Logo" />
+    <img src="images/innophore_norm.png" alt="Innophore Logo" />
 </div>
 
 <style>
