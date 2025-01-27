@@ -106,10 +106,16 @@ author_profile: true
       <td><strong>14:25 - 15:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Markus Jeschek</strong> (University of Regensburg)
+          <strong>Markus Jeschek</strong> (University of Regensburg/EPFL): From sequence to function and back – Data-driven engineering of synthetic microbes for sustainable bioproduction
         </div>
         <div class="abstract" style="display: none;">
-          Abstract: tba
+          Abstract: The pressing ecological issues of our time impose an urgent need for sustainable solutions to maintain our life standards. Synthetic microbes engineered to produce value-added chemicals based on renewables are an attractive means to replace petrochemical production. However, their engineering remains intricate and prone to unsatisfying outcomes, such as insufficient productivity or the incapability to access many non-natural compounds.
+In my talk, I will show how we combine high-throughput experimental technology with machine learning to overcome some of the shortcomings of our “engineering toolbox”. I will showcase how such data-driven approaches can streamline the engineering of microbes such as Escherichia coli on all levels of the central dogma to tweak gene regulation, enzymatic activity and metabolic flux [1-4]. Further, I will introduce different techniques to improve model performance through active learning and rational training set design.
+
+[1] Vornholt, Mutný, Schmidt, Schellhaas, Tachibana, Panke, Ward, Krause, Jeschek. ACS Central Sci. 2024 10 (7), 1357-1370.
+[2] Höllerer & Jeschek. Nucl. Acids Res. 51:2377-2396 (2023).
+[3] Vornholt, Christoffel, Pellizzoni, Panke, Ward, Jeschek. Sci. Adv. 7:eabe4208 (2021).
+[4] Höllerer, Papaxanthos, Gumpinger, Fischer, Beisel, Borgwardt, Benenson, Jeschek. Nat. Commun. 11:3551 (2020).
         </div>
       </td>
     </tr>
