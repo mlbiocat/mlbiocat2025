@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "The ML for Biocatalysis workshop on 18 March in Zurich aims to bring together wet lab and dry lab to discuss advances and challenges in enzyme design and engineering."
+excerpt: "The ML for Biocatalysis workshop on 18 March in Zurich aims to bring together wet lab and dry lab to discuss advances and challenges in computational enzyme design and engineering."
 sitemap: false
 author_profile: true
 redirect_from: 
