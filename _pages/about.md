@@ -144,6 +144,7 @@ redirect_from:
     <img src="images/twist_norm_white.png" alt="Twist Bioscience Logo" />
     <img src="images/innophore_norm.png" alt="Innophore Logo" />
     <img src="images/inseit_norm.png" alt="Inseit Logo" />
+    <img src="images/zhaw_sip_norm.png" alt="ZHAW SIP Logo" />
     <img src="images/ccbio_norm.png" alt="CCBIO Logo" />
 </div>
 
