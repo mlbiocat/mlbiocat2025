@@ -79,7 +79,7 @@ author_profile: true
         </div>
         <div class="abstract" style="display: none;">
           Abstract: Data management has become a bottleneck to progress in biocatalysis. In order to take advantage of the rapid progress in experimental and computational technologies, biocatalytic data should be     findable, accessible, interoperable, and reusable (FAIR), and data analysis should be scalable and reproducible.[1] The EnzymeML framework (https://github.com/EnzymeML) provides reusable tools and a standardized data exchange format for FAIR and scalable data management in biocatalysis.[2] An EnzymeML document contains information about reaction conditions and the measured time course of substrate or product concentrations, and about the rate equation and the estimated kinetic parameters of the subsequent modelling step.[3] The final EnzymeML document is entered into a local database or is uploaded to a public repository. The workflow of a project is encoded as Jupyter Notebook, which can be re-used or extended. Machine-readable data enable the application of AI tools at different stages of the data life cycle: upon parsing of data and metadata and for modelling of reaction kinetics, where machine learning approaches complement ODE-based mechanistic modelling.[4] The FAIRification of data and software and the digitalization of biocatalysis improve the efficiency of research by automation, guarantee the scientific quality by reproducibility, and enable the application of novel modelling strategies. 
-<br>
+<br><br>
 1.	Pleiss, J. FAIR data and software: improving efficiency and quality of biocatalytic science. ACS Catal 14, 2709-2718 (2024).<br>
 2.	Lauterbach, S. et al. EnzymeML: seamless data flow and modeling of enzymatic data. Nat Methods 20, 400-402 (2023).<br>
 3.	Range, J. et al. EnzymeML—a data exchange format for biocatalysis and enzymology. FEBS J 289, 5864-5874 (2022).<br>
@@ -110,11 +110,10 @@ author_profile: true
         </div>
         <div class="abstract" style="display: none;">
           Abstract: The pressing ecological issues of our time impose an urgent need for sustainable solutions to maintain our life standards. Synthetic microbes engineered to produce value-added chemicals based on renewables are an attractive means to replace petrochemical production. However, their engineering remains intricate and prone to unsatisfying outcomes, such as insufficient productivity or the incapability to access many non-natural compounds.
-In my talk, I will show how we combine high-throughput experimental technology with machine learning to overcome some of the shortcomings of our “engineering toolbox”. I will showcase how such data-driven approaches can streamline the engineering of microbes such as Escherichia coli on all levels of the central dogma to tweak gene regulation, enzymatic activity and metabolic flux [1-4]. Further, I will introduce different techniques to improve model performance through active learning and rational training set design.
-
-[1] Vornholt, Mutný, Schmidt, Schellhaas, Tachibana, Panke, Ward, Krause, Jeschek. ACS Central Sci. 2024 10 (7), 1357-1370.
-[2] Höllerer & Jeschek. Nucl. Acids Res. 51:2377-2396 (2023).
-[3] Vornholt, Christoffel, Pellizzoni, Panke, Ward, Jeschek. Sci. Adv. 7:eabe4208 (2021).
+In my talk, I will show how we combine high-throughput experimental technology with machine learning to overcome some of the shortcomings of our “engineering toolbox”. I will showcase how such data-driven approaches can streamline the engineering of microbes such as Escherichia coli on all levels of the central dogma to tweak gene regulation, enzymatic activity and metabolic flux [1-4]. Further, I will introduce different techniques to improve model performance through active learning and rational training set design.<br><br>
+[1] Vornholt, Mutný, Schmidt, Schellhaas, Tachibana, Panke, Ward, Krause, Jeschek. ACS Central Sci. 2024 10 (7), 1357-1370.<br>
+[2] Höllerer & Jeschek. Nucl. Acids Res. 51:2377-2396 (2023).<br>
+[3] Vornholt, Christoffel, Pellizzoni, Panke, Ward, Jeschek. Sci. Adv. 7:eabe4208 (2021).<br>
 [4] Höllerer, Papaxanthos, Gumpinger, Fischer, Beisel, Borgwardt, Benenson, Jeschek. Nat. Commun. 11:3551 (2020).
         </div>
       </td>
@@ -126,7 +125,7 @@ In my talk, I will show how we combine high-throughput experimental technology w
           <strong>Ditte Hededam Welner</strong> (DTU Biosustain): How we try to use machine learning on limited-size enzymology datasets for prediction and engineering of glycosyltransferases
         </div>
         <div class="abstract" style="display: none;">
-          Abstract: Functional prediction from enzyme sequence remains a major challenge in biocatalysis and enzyme engineering. For some enzyme families, sequence-function relationships are particularly elusive, and seem to be governed by complex patterns that escape our elucidation. This is true for glycosyltransferases of family 1. This enzyme family is promiscuous and notorious for escaping elucidation of robust structure-function relationships. It is also an enzyme family with large industrial potential, due to its capability of regioselective and stereoselective glycosylation of a vast array of industrially relevant molecules, including pharmaceuticals, nutraceuticals, and cosmetics.
+          Abstract: Functional prediction from enzyme sequence remains a major challenge in biocatalysis and enzyme engineering. For some enzyme families, sequence-function relationships are particularly elusive, and seem to be governed by complex patterns that escape our elucidation. This is true for glycosyltransferases of family 1. This enzyme family is promiscuous and notorious for escaping elucidation of robust structure-function relationships. It is also an enzyme family with large industrial potential, due to its capability of regioselective and stereoselective glycosylation of a vast array of industrially relevant molecules, including pharmaceuticals, nutraceuticals, and cosmetics.<br>
 Machine learning is becoming recognized a powerful tool in enzymology, due to its strength in recognizing patterns in complex data. It is challenged by the limited size and varying quality of many enzymology dataset. We continuously work to develop a robust and versatile predictor for glycosyltransferase prediction and engineering. The current status of this effort will be presented.
         </div>
       </td>
