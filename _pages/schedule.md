@@ -103,7 +103,18 @@ author_profile: true
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>14:25 - 15:00</strong></td>
+      <td><strong>14:25 - 14:50</strong></td>
+      <td>
+        <div class="clickable-row" onclick="toggleAbstract(this)">
+          <strong>Julian Englert</strong> (Adaptyv Bio): Adaptyv - The cloud lab for protein designers
+        </div>
+        <div class="abstract" style="display: none;">
+          Abstract: Thanks to advances in AI tools such as AlphaFold, RFdiffusion & co, protein design has become the fastest growing area of biotechnology. But what good is a computationally designed protein if you can't actually test it in the lab? At Adaptyv, we're running an automated lab that allows protein designers to get high-quality experimental data to see how their proteins perform. They can simply upload their designs to our web portal, choose the type of assay they want to run, and our lab completes the experiments in just a couple weeks for them. In this talk we'll present some of the infrastructure (lab automation, molecular biology and software) that we had to build to make this work at scale to run smoothly on a daily basis with dozens of customers from the best protein design companies in the world.  
+        </div>
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td><strong>14:50 - 15:25</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Markus Jeschek</strong> (University of Regensburg/EPFL): From sequence to function and back – Data-driven engineering of synthetic microbes for sustainable bioproduction
@@ -119,7 +130,7 @@ In my talk, I will show how we combine high-throughput experimental technology w
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>15:00 - 15:35</strong></td>
+      <td><strong>15:25 - 16:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
           <strong>Ditte Hededam Welner</strong> (DTU Biosustain): How we try to use machine learning on limited-size enzymology datasets for prediction and engineering of glycosyltransferases
@@ -131,19 +142,19 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
       </td>
     </tr>
     <tr>
-      <td><strong>15:35 - 16:00</strong></td>
+      <td><strong>16:00 - 16:15</strong></td>
       <td><strong>Coffee break</strong></td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>16:00 - 17:00</strong></td>
+      <td><strong>16:15 - 17:15</strong></td>
       <td><strong>Panel discussion</strong></td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>17:00 - 17:15</strong></td>
+      <td><strong>17:15 - 17:30</strong></td>
       <td><strong>Andreas Krause</strong> (closing remarks)</td>
     </tr>
         <tr>
-      <td><strong>17:15 - 19:00</strong></td>
+      <td><strong>17:30 - 19:00</strong></td>
       <td><strong>Poster session and apéro</strong> (sponsored by Innophore)</td>
     </tr>
   </tbody>
