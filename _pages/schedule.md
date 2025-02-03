@@ -44,13 +44,12 @@ author_profile: true
           Enzymes are essential for supporting life by accelerating chemical reactions in a biologically compatible timescale. These remarkable catalysts possess unique features like high specificity and selectivity, and they function under mild biological conditions. These extraordinary characteristics make the design of enzymes for industrially relevant targets highly appealing. 
 Enzymes exist as an ensemble of conformational states, and the populations of these states can be altered through substrate binding, allosteric interactions, and even by introducing mutations into their sequence. These conformational states can be altered through mutations, which facilitates the evolution of enzymes towards acquiring novel activities.[1] Interestingly, many laboratory-evolved enzymes exhibit a common pattern—a significant impact on the catalytic activity is often observed due to remote mutations located distal from the catalytic center.[2] Similar to allosterically regulated enzymes, distal mutations play a role in regulating enzyme activity by stabilizing pre-existing conformational states that are crucial for catalysis.
 In this talk, the rational approaches we have developed for enzyme design along the years will be discussed. These approaches rely on inter-residue correlations derived from microsecond time-scale Molecular Dynamics (MD) simulations, enhanced sampling techniques, and more recently, the development and application of a template-based AlphaFold2 based approach for rational enzyme design.[1-4] Over the years, our research on various enzyme systems has provided compelling evidence that the current challenge of predicting distal active sites to enhance functionality in computational enzyme design can ultimately be addressed.[2, 5]
-
-References:
-[1] Maria-Solano, M. A.; Serrano-Hervás, E.; Romero-Rivera, A.; Iglesias-Fernández, J.; Osuna, S. Role of conformational dynamics for the evolution of novel enzyme function, Chem. Commun. 2018, 54, 6622-6634.
-[2] Osuna, S. The challenge of predicting distal active site mutations in computational enzyme design, WIREs Comput Mol Sci. 2020, e1502.
-[3] Casadevall, G.; Duran, C.; Osuna, S. AlphaFold2 and Deep Learning for Elucidating Enzyme Conformational Flexibility and Its Application for Design, JACS Au 2023, 3, 1554.
-[4] Casadevall, G.; Duran, C.; Estévez-Gay, M.; Osuna, S. Estimating conformational heterogeneity of tryptophan synthase with a template-based AlphaFold2 approach, Prot. Sci. 2022, 31, e4426.
-[5] Duran, C.;  Kinateder, T.; Hiefinger, C.; Sterner, R.; Osuna, S. Altering Active-Site Loop Dynamics Enhances Standalone Activity of the Tryptophan Synthase Alpha Subunit, ACS Catal., 2024, 14, 16986–16995
+<br><br>
+1. Maria-Solano, M. A.; Serrano-Hervás, E.; Romero-Rivera, A.; Iglesias-Fernández, J.; Osuna, S. Role of conformational dynamics for the evolution of novel enzyme function, Chem. Commun. 2018, 54, 6622-6634.<br>
+2. Osuna, S. The challenge of predicting distal active site mutations in computational enzyme design, WIREs Comput Mol Sci. 2020, e1502.<br>
+3. Casadevall, G.; Duran, C.; Osuna, S. AlphaFold2 and Deep Learning for Elucidating Enzyme Conformational Flexibility and Its Application for Design, JACS Au 2023, 3, 1554.<br>
+4. Casadevall, G.; Duran, C.; Estévez-Gay, M.; Osuna, S. Estimating conformational heterogeneity of tryptophan synthase with a template-based AlphaFold2 approach, Prot. Sci. 2022, 31, e4426.<br>
+5. Duran, C.;  Kinateder, T.; Hiefinger, C.; Sterner, R.; Osuna, S. Altering Active-Site Loop Dynamics Enhances Standalone Activity of the Tryptophan Synthase Alpha Subunit, ACS Catal., 2024, 14, 16986–16995<br>
         </div>
       </td>
     </tr>
