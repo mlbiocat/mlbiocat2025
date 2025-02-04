@@ -174,7 +174,7 @@ redirect_from:
     }
 </style>
 
-<p>The National Centres of Competence in Research (NCCRs) are a funding scheme of the Swiss National Science Foundation.</p>
+<p style="font-family: 'Arial Nova Light', Arial, sans-serif; margin-top: 10px;">The National Centres of Competence in Research (NCCRs) are a funding scheme of the Swiss National Science Foundation.</p>
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif; margin-top: 20px;">
     Please 
     <a href="https://mlbiocat.github.io/mlbiocat2025/_pages/contact_form.html" 
