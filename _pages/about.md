@@ -55,6 +55,7 @@ redirect_from:
     <li>Christian Gruber (Innophore GmbH)</li>
     <li>Adrian Bunzel (ETH Zurich)</li>
     <li>Mattia Gollub (Jura Bio)</li>
+    <li>Julian Englert (Adaptyv Bio)</li>
   </ul>
 </div>
 
