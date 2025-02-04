@@ -103,10 +103,19 @@ In this talk, the rational approaches we have developed for enzyme design along 
       <td><strong>14:00 - 14:25</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Adrian Bunzel</strong> (ETH Zurich): AI-based evolutionary enzyme design
+          <strong>Adrian Bunzel</strong> (ETH Zurich): AI.zymes: A Modular Platform for Evolutionary Enzyme Design
         </div>
         <div class="abstract" style="display: none;">
-          Abstract: tba
+          Abstract: The ability to reliably create novel enzymes would transform biomedicine and the chemical industry. While enzymes can be designed computationally, their activities often remain limited. To address this challenge, our group integrates protein design with directed evolution to engineer biocatalysts exhibiting enzyme-like activity [1]. Moreover, evolution provides key insights into fundamental principles of biocatalysis [2], such as conformational dynamics [3,4] and electrostatic catalysis [5].<br>
+A major limitation of current enzyme design algorithms is their focus on protein stability, making it difficult to design properties specific to enzyme catalysts. To overcome this limitation and harness the lessons learned during enzyme evolution, we developed AI.zymes, a modular platform for evolutionary enzyme design [6]. AI.zymes bridges this gap by integrating cutting-edge protein design tools—including Rosetta, ESMFold, ProteinMPNN, and FieldTools—in an evolutionary design framework comprising iterative rounds of design and selection. Notably, evolutionary selection allowed the optimization of enzyme properties, such as electrostatic catalysis, that were not targeted by the employed design programs. We validated AI.zymes by optimizing the promiscuous Kemp eliminase activity of ketosteroid isomerase (KSI), achieving a 7.7-fold increase in activity after testing only seven variants.<br>
+Reliable enzyme design will likely require a holistic framework that accounts for the dynamic and electrostatic effects essential to biocatalysis. AI.zymes provides such a framework by integrating cutting-edge design algorithms within an evolutionary pipeline to optimize enzyme-specific features.<br><br>
+References<br>
+[1] Bunzel HA et al., J Am Chem Soc, 2019.<br>
+[2] Bunzel HA et al., Curr Opin Struct Biol, 2021.<br>
+[3] Otten R et al., Science, 2020.<br>
+[4] Bunzel HA et al., Nat Chem, 2021.<br>
+[5] Jabeen H et al., ACS Catal, 2024.<br>
+[6] Merlicek LP et al., bioRxiv, 2025.
         </div>
       </td>
     </tr>
