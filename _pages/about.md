@@ -50,7 +50,7 @@ redirect_from:
     <li>Ditte Hededam Welner (DTU Biosustain)</li>
     <li>Silvia Osuna (University of Girona)</li>
     <li>Gustav Oberdorfer (TU Graz)</li>
-    <li>Markus Jeschek (University of Regensburg)</li>
+    <li>Markus Jeschek (University of Regensburg/EPFL)</li>
     <li>Jürgen Pleiss (University of Stuttgart)</li>
     <li>Christian Gruber (Innophore GmbH)</li>
     <li>Adrian Bunzel (ETH Zurich)</li>
