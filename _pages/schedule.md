@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tentative Workshop Schedule"
+title: "Workshop Schedule"
 permalink: /schedule/
 author_profile: true
 ---
@@ -61,10 +61,10 @@ In this talk, the rational approaches we have developed for enzyme design along 
       <td><strong>11:10 - 11:35</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Mattia Gollub</strong> (Jura Bio)
+          <strong>Mattia Gollub</strong> (Jura Bio): Synthesizing Biological Sequences Designed by Generative Models at Petascale
         </div>
         <div class="abstract" style="display: none;">
-          Abstract: tba
+          Abstract: Generative modeling offers a powerful paradigm for designing novel functional DNA, RNA and protein sequences. We introduce a method to efficiently synthesize designs from generative models in the real world. The method consists of an integrated machine learning and wet lab procedure, which implements generative sampling algorithms physically through controlled stochastic chemical reactions. We demonstrate synthesizing ~10^16 designs from a generative model of human antibodies, at a level of realism and diversity comparable to state-of-the-art protein language models, and a cost of ~$10^3. The library yields hundreds of therapeutic scFv CAR candidates against HLA-presented intracellular tumor antigens. Using previous methods, a library of the same size and quality would cost roughly ~$10^15.
         </div>
       </td>
     </tr>
