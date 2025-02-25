@@ -19,7 +19,6 @@ sitemap: false
     <li><strong>Submission system is now open.</strong></li>
     <li><strong>Registration and poster submission deadline:</strong> 3 March 2025 11:59 PM (CET)</li>
     <li><strong>Participation is free of charge.</strong></li>
-    <li><strong>The number of participants is limited. Attendees with posters will be prioritized.</strong></li>
   </ul>
 </div>
 
