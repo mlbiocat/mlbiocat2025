@@ -234,12 +234,12 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
   
   <div class="image-container">
       <h3>ETH Zurich HG Building Location:</h3>
-      <img src="mlbiocat2025/files/main-map-eth.jpg" alt="ETH Zurich Location Map">
+      <img src="https://mlbiocat.github.io/mlbiocat2025/files/main-map-eth.jpg" alt="ETH Zurich Location Map">
   </div>
 
   <div class="image-container">
       <h3>Workshop Floor Plan:</h3>
-      <img src="mlbiocat2025/files/event-map-room-locatiojn-2.jpg" alt="ETH Zurich Workshop Map">
+      <img src="https://mlbiocat.github.io/mlbiocat2025/files/event-map-room-locatiojn-2.jpg" alt="ETH Zurich Workshop Map">
   </div>
   
   <h2>Poster Setup</h2>
