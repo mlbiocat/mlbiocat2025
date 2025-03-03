@@ -6,8 +6,8 @@ main:
     url: /schedule/
   - title: "Registration & Poster Submission"
     url: /cfp/
-  #- title: "Schedule"
-  #  url: /schedule/
+  - title: "Arrival and Poster Session"
+    url: /arrival/
   #- title: "Speakers"
     #url: /speakers/
   #- title: "Talks"
