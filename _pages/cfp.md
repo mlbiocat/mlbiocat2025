@@ -8,16 +8,16 @@ sitemap: false
   <img src="https://mlbiocat.github.io/mlbiocat2025/images/logo.png" alt="Workshop Logo" style="max-height: 50vh; display: block; margin: 0 auto;" />
 </div>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank" style="text-decoration: none; display: block; padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: center; cursor: pointer; width: fit-content; margin: 0 auto;">
+<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5HvdtoYE5jChAGrXDEQVhW1MelSfl4QyUY97rLQePhtVLEg/viewform?usp=dialog" target="_blank" style="text-decoration: none; display: block; padding: 10px; background-color: #1C5B62; color: white; border-radius: 8px; text-align: center; cursor: pointer; width: fit-content; margin: 0 auto;">
   <strong>Click here to register and submit a poster abstract.</strong>
-</a>
+</a> -->
 
 
 ## Important Information
 <div style="padding: 15px; background-color: #f5f5f5; border-left: 5px solid #6FA64A; width: 100%; margin: 0 auto;">
   <ul style="font-family: 'Arial Nova Light', Arial, sans-serif;">
-    <li><strong>Submission system is now open.</strong></li>
-    <li><strong>Registration and poster submission deadline:</strong> 3 March 2025 11:59 PM (CET)</li>
+    <li><strong>Submission system is now closed. We are looking forward to the workshop</strong></li>
+    <!-- <li><strong>Registration and poster submission deadline:</strong> 3 March 2025 11:59 PM (CET)</li> -->
     <li><strong>Participation is free of charge.</strong></li>
   </ul>
 </div>
