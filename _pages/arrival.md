@@ -20,12 +20,12 @@ author_profile: true
       <h3>From Zurich HB (Main Train Station):</h3>
       <ul>
           <li>Take tram number <strong>6</strong> (direction Zoo) or <strong>10</strong> (direction Flughafen) and get off at <strong>ETH/Universitätsspital</strong>.</li>
-          <li>Alternatively, walk from Zurich HB to ETH Zurich, which takes about 10-15 minutes uphill.</li>
+          <li>Alternatively, walk from Zurich HB to ETH Zurich, which takes about 10-15 minutes (uphill).</li>
           <li>Use the <strong>Polybahn</strong> (funicular) from Central station to reach ETH Zurich easily.</li>
       </ul>
   </div>
   
-  <p>Once at ETH Zurich, follow the signs to the <strong>HG Building (Main Building)</strong>. The workshop location will be indicated inside.</p>
+  <p>Once at ETH Zurich, follow the signs to the <strong>HG Building (Main Building)</strong>. The workshop will take place in the <strong>Audi Max</strong> and the adjacent foyer on the F floor. Signs guiding you to the Audi Max will be put up inside.</p>
   
   <div class="image-container">
       <h3>ETH Zurich HG Building Location:</h3>
