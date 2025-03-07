@@ -92,7 +92,7 @@ redirect_from:
   <!-- Left Column (Text) -->
   <div style="flex: 1; padding-right: 20px; display: flex; flex-direction: column; justify-content: center;">
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>ETH Zurich, Main Campus</strong><br>HG F30 - AudiMax</p>
-    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong><a href="{{ site.baseurl }}/schedule/">Poster and Arrival Instructions</a></strong></p>
+    <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong><a href="{{ site.baseurl }}/arrival/">Poster and Arrival Instructions</a></strong></p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Date:</strong> 18 March 2025</p>
     <p style="font-family: 'Arial Nova Light', Arial, sans-serif;"><strong>Time:</strong> 9:30 AM - 7:00 PM</p>
   </div>
