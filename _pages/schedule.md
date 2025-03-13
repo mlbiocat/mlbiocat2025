@@ -210,8 +210,7 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
 
 
 
-
-  <h2>How to Get to the Workshop - ETH Zurich HG Building</h2>
+<!--<h2>How to Get to the Workshop - ETH Zurich HG Building</h2>
   
   <div class="info">
       <h3>From Zurich Airport (ZRH):</h3>
@@ -245,6 +244,6 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
   <h2>Poster Setup</h2>
   <div class="info">
       <p>Attendees are advised to set up their posters upon arrival on any available poster board (highlighted in green in the map above). There is no designated order; it is first-come, first-served. There should be enough poster boards for everyone.</p>
-  </div>
+  </div>-->
 
 
