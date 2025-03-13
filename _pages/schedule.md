@@ -74,7 +74,7 @@ In this talk, the rational approaches we have developed for enzyme design along 
       <td><strong>11:35 - 12:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>Christian Gruber</strong> (Innophore)
+          <strong>Bettina Nestl</strong> (Innophore)
         </div>
         <div class="abstract" style="display: none;">
           Abstract: tba
@@ -169,11 +169,11 @@ Machine learning is becoming recognized a powerful tool in enzymology, due to it
       <td><strong>Panel discussion</strong></td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td><strong>17:15 - 17:30</strong></td>
+      <td><strong>17:15 - 17:20</strong></td>
       <td><strong>Andreas Krause</strong> (closing remarks)</td>
     </tr>
         <tr>
-      <td><strong>17:30 - 19:00</strong></td>
+      <td><strong>17:20 - 19:00</strong></td>
       <td><strong>Poster session and apéro</strong> (sponsored by Innophore)</td>
     </tr>
   </tbody>
