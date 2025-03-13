@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  <h2>How to Get to the Workshop - ETH Zurich HG Building</h2>
+  <h2>How to Get to the Workshop</h2>
   
   <div class="info">
       <h3>From Zurich Airport (ZRH):</h3>
