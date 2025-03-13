@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  <h2>How to Get to the Workshop</h2>
+## How to Get to the Workshop
   
   <div class="info">
       <h3>From Zurich Airport (ZRH):</h3>
@@ -49,7 +49,7 @@ author_profile: true
 
   <br>
   
-  <h2>Poster Setup</h2>
+  ## Poster Setup
   <div class="info">
       <p>Attendees are advised to set up their posters upon arrival on any available poster board (highlighted in green in the map above). There is no designated order; it is first-come, first-served. There should be enough poster boards for everyone.</p>
   </div>
