@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Arrival and Poster Session"
 permalink: /arrival/
 author_profile: true
