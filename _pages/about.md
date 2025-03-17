@@ -49,7 +49,6 @@ redirect_from:
 <p style="font-family: 'Arial Nova Light', Arial, sans-serif;">Confirmed speakers:</p>
 <div style="background-color: #6FA64A; color: white; padding: 15px; border-radius: 8px;">
   <ul>
-    <li>Ditte Hededam Welner (DTU Biosustain)</li>
     <li>Silvia Osuna (University of Girona)</li>
     <li>Gustav Oberdorfer (TU Graz)</li>
     <li>Markus Jeschek (University of Regensburg/EPFL)</li>
@@ -58,6 +57,7 @@ redirect_from:
     <li>Adrian Bunzel (ETH Zurich)</li>
     <li>Mattia Gollub (Jura Bio)</li>
     <li>Julian Englert (Adaptyv Bio)</li>
+    <li>David Harding-Larsen (DTU Biosustain)</li>
   </ul>
 </div>
 
