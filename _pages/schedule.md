@@ -152,7 +152,7 @@ In my talk, I will show how we combine high-throughput experimental technology w
       <td><strong>15:25 - 16:00</strong></td>
       <td>
         <div class="clickable-row" onclick="toggleAbstract(this)">
-          <strong>David Harding-Larsen</strong> (Welner group, DTU Biosustain): How we try to use machine learning on limited-size enzymology datasets for prediction and engineering of glycosyltransferases
+          <strong>David Harding-Larsen</strong> (DTU Biosustain): How we try to use machine learning on limited-size enzymology datasets for prediction and engineering of biocatalysts
         </div>
         <div class="abstract" style="display: none;">
           Abstract: Functional prediction from enzyme sequence remains a major challenge in biocatalysis and enzyme engineering. For some enzyme families, sequence-function relationships are particularly elusive, and seem to be governed by complex patterns that escape our elucidation. This is true for glycosyltransferases of family 1. This enzyme family is promiscuous and notorious for escaping elucidation of robust structure-function relationships. It is also an enzyme family with large industrial potential, due to its capability of regioselective and stereoselective glycosylation of a vast array of industrially relevant molecules, including pharmaceuticals, nutraceuticals, and cosmetics.<br>
